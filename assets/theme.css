@@ -12,7 +12,8 @@ html {
   -moz-tab-size: 4;
   tab-size: 4;
   scroll-padding-top: var(--sticky-area-height);
-  line-height: 1.5;
+  line-height: 1.5; 
+  opacity: 1;
 }
 
 body {
@@ -21,6 +22,7 @@ body {
   letter-spacing: var(--text-letter-spacing);
   margin: 0;
   position: relative;
+  opacity: 2;
 }
 
 hr {
