@@ -13,10 +13,17 @@
           "type": "vendor",
           "settings": {}
         },
+        "rating_nF8B8e": {
+          "type": "rating",
+          "settings": {
+            "show_empty": true,
+            "rating_mode": "rating"
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
-            "show_taxes_notice": true
+            "show_taxes_notice": false
           }
         },
         "payment_terms": {
@@ -62,9 +69,9 @@
         "complementary_products": {
           "type": "complementary_products",
           "settings": {
-            "title": "Pairs well with",
-            "products_count": 3,
-            "show_below_gallery": true,
+            "title": "Buy It With",
+            "products_count": 2,
+            "show_below_gallery": false,
             "stack_products": false,
             "show_quick_buy": true
           }
@@ -73,6 +80,7 @@
       "block_order": [
         "title",
         "vendor",
+        "rating_nF8B8e",
         "price",
         "payment_terms",
         "separator",
@@ -88,7 +96,7 @@
         "product_info_size": 45,
         "show_sticky_add_to_cart": true,
         "center_basic_info": false,
-        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "desktop_media_layout": "grid_2x_highlighted",
         "desktop_media_grid_gap": 30,
         "mobile_controls": "dots",
         "enable_media_autoplay": false,

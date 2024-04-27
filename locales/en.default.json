@@ -463,5 +463,10 @@
       "view_products": "View products",
       "view_product": "View product"
     }
+  },
+  "shopify": {
+    "links": {
+      "powered_by_shopify": " "
+    }
   }
 }
