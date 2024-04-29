@@ -128,27 +128,27 @@
         "collection_HJQ8m8": {
           "type": "collection",
           "settings": {
-            "color_scheme": "scheme-1",
+            "color_scheme": "scheme-4",
             "collection": "best-sellers",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
-            "title": "",
+            "title": "Best Sellers",
             "button_text": "View products",
             "button_link": "",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 40
           }
         },
         "collection_Ld7kk7": {
           "type": "collection",
           "settings": {
-            "color_scheme": "scheme-1",
+            "color_scheme": "scheme-4",
             "collection": "crossbody-handbag",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
-            "title": "",
+            "title": "Crossbody Handbag",
             "button_text": "View products",
             "button_link": "",
             "overlay_color": "#000000",
@@ -158,12 +158,12 @@
         "collection_ixD3qG": {
           "type": "collection",
           "settings": {
-            "color_scheme": "scheme-1",
+            "color_scheme": "scheme-4",
             "collection": "silk-eye-mask",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
-            "title": "",
+            "title": "Silk Eye Mask",
             "button_text": "View products",
             "button_link": "",
             "overlay_color": "#000000",

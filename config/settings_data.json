@@ -13,7 +13,7 @@
     "error_color": "#cb2b2b",
     "heading_font": "futura_n4",
     "heading_letter_spacing": 10,
-    "text_font": "futura_n4",
+    "text_font": "century_gothic_n4",
     "text_font_size_desktop": 15,
     "button_letter_spacing": 10,
     "show_page_transition": true,
@@ -28,6 +28,13 @@
     "social_instagram": "#",
     "social_linkedin": "#",
     "content_for_index": [],
+    "blocks": {
+      "1143683040400472741": {
+        "type": "shopify://apps/trustoo-io-product-reviews/blocks/trustoo-review-switch/c8f15077-6475-4e86-ad06-b66038d5ba2c",
+        "disabled": true,
+        "settings": {}
+      }
+    },
     "color_schemes": {
       "scheme-1": {
         "settings": {
