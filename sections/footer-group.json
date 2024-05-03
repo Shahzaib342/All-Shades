@@ -9,40 +9,40 @@
           "type": "item",
           "settings": {
             "icon": "picto-award-gift",
-            "icon_width": 24,
-            "mobile_icon_width": 24,
-            "title": "Free delivery worldwide",
-            "content": "<p>Short content about your store</p>"
+            "icon_width": 56,
+            "mobile_icon_width": 32,
+            "title": "<strong>Free delivery worldwide<\/strong>",
+            "content": "<p>Short content about your store<\/p>"
           }
         },
         "icon-2": {
           "type": "item",
           "settings": {
-            "icon": "picto-award-gift",
-            "icon_width": 24,
-            "mobile_icon_width": 24,
-            "title": "Satisfied or refunded",
-            "content": "<p>Short content about your store</p>"
+            "icon": "picto-return",
+            "icon_width": 56,
+            "mobile_icon_width": 32,
+            "title": "<strong>Satisfied or refunded<\/strong>",
+            "content": "<p>Short content about your store<\/p>"
           }
         },
         "icon-3": {
           "type": "item",
           "settings": {
-            "icon": "picto-award-gift",
-            "icon_width": 24,
-            "mobile_icon_width": 24,
-            "title": "Top-notch support",
-            "content": "<p>Short content about your store</p>"
+            "icon": "picto-at-sign",
+            "icon_width": 56,
+            "mobile_icon_width": 32,
+            "title": "<strong>Top-notch support<\/strong>",
+            "content": "<p>Short content about your store<\/p>"
           }
         },
         "icon-4": {
           "type": "item",
           "settings": {
-            "icon": "picto-award-gift",
-            "icon_width": 24,
-            "mobile_icon_width": 24,
-            "title": "Secure payments",
-            "content": "<p>Short content about your store</p>"
+            "icon": "picto-lock",
+            "icon_width": 56,
+            "mobile_icon_width": 32,
+            "title": "<strong>Secure payments<\/strong>",
+            "content": "<p>Short content about your store<\/p>"
           }
         }
       },
@@ -53,10 +53,10 @@
         "icon-4"
       ],
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "separate_section_with_border": true,
         "stack_on_mobile": false,
-        "icon_color": "",
+        "icon_color": "#ae8157",
         "text_color": "",
         "text_alignment": "center"
       }
@@ -67,8 +67,8 @@
         "text_YPNTmD": {
           "type": "text",
           "settings": {
-            "title": "<strong>About Us</strong>",
-            "content": "<p>Allshades-BeYOUtiful is an e-commerce store that specializes in travel essentials and accessories. </p>",
+            "title": "<strong>About Us<\/strong>",
+            "content": "<p>Allshades-BeYOUtiful is an e-commerce store that specializes in travel essentials and accessories. <\/p>",
             "enable_follow_on_shop": true
           }
         },
@@ -92,7 +92,7 @@
           "type": "newsletter",
           "settings": {
             "title": "Newsletter",
-            "content": "<p>Sign up to our newsletter to receive exclusive offers.</p>",
+            "content": "<p>Sign up to our newsletter to receive exclusive offers.<\/p>",
             "button_background": "",
             "button_text_color": ""
           }
@@ -105,7 +105,7 @@
         "newsletter"
       ],
       "settings": {
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-2",
         "separate_section_with_border": false,
         "show_social_media": true,
         "show_payment_icons": true,

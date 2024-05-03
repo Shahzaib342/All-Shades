@@ -15,6 +15,7 @@
         },
         "rating_nF8B8e": {
           "type": "rating",
+          "disabled": true,
           "settings": {
             "show_empty": true,
             "rating_mode": "rating"
@@ -33,13 +34,6 @@
         "separator": {
           "type": "separator",
           "settings": {}
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false,
-            "show_below_gallery": false
-          }
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -66,6 +60,13 @@
             "payment_button_text_color": ""
           }
         },
+        "description": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false,
+            "show_below_gallery": false
+          }
+        },
         "complementary_products": {
           "type": "complementary_products",
           "settings": {
@@ -74,6 +75,28 @@
             "show_below_gallery": false,
             "stack_products": false,
             "show_quick_buy": true
+          }
+        },
+        "accordion_3baMV3": {
+          "type": "accordion",
+          "settings": {
+            "show_below_gallery": true,
+            "icon": "picto-delivery-truck",
+            "title": "<strong>Shipping<\/strong>",
+            "content": "<p>We offer shipping nationwide. We use reputed shipping companies to ship our products. Shipping costs vary depending on the size and weight of the package and the destination. <br\/><br\/>We strive to process and ship orders as quickly as possible, usually 3 days. However, shipping times may vary depending on your location. <br\/><br\/>We are not responsible for any delays or damage caused by the shipping carrier. If you receive a damaged or lost package, please contact us immediately so we can assist you in filing a claim with the shipping carrier.<\/p>",
+            "liquid": "",
+            "page": ""
+          }
+        },
+        "accordion_DFGAcH": {
+          "type": "accordion",
+          "settings": {
+            "show_below_gallery": true,
+            "icon": "picto-return",
+            "title": "<strong>Returns<\/strong>",
+            "content": "<p>We want you to be completely satisfied with your purchase. If for any reason you are not satisfied with your purchase, you may return it for a full refund within 30 days of receipt. Please contact us to initiate a return.<br\/><br\/>To be eligible for a refund, the item must be in its original condition and packaging. We will refund the purchase price of the item, but we do not refund shipping costs.<br\/><br\/>If you receive a defective or damaged item, please contact us immediately to arrange for a replacement or refund.<\/p>",
+            "liquid": "",
+            "page": ""
           }
         }
       },
@@ -84,20 +107,23 @@
         "price",
         "payment_terms",
         "separator",
-        "description",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "complementary_products"
+        "description",
+        "complementary_products",
+        "accordion_3baMV3",
+        "accordion_DFGAcH"
       ],
+      "custom_css": [],
       "settings": {
         "color_scheme": "scheme-1",
         "container_size": "lg",
-        "product_info_size": 45,
+        "product_info_size": 34,
         "show_sticky_add_to_cart": true,
         "center_basic_info": false,
-        "desktop_media_layout": "carousel_thumbnails_bottom",
-        "desktop_media_grid_gap": 30,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "desktop_media_grid_gap": 0,
         "mobile_controls": "dots",
         "enable_media_autoplay": false,
         "enable_video_looping": true,
@@ -108,8 +134,8 @@
     "related-products": {
       "type": "related-products",
       "settings": {
-        "color_scheme": "scheme-1",
-        "separate_section_with_border": true,
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": false,
         "hide_product_information": false,
         "stack_products": false,
         "recommendations_count": 10,
@@ -119,6 +145,23 @@
         "vertical_spacing_factor": 1,
         "subheading": "",
         "title": "Related products",
+        "content": ""
+      }
+    },
+    "recently_viewed_products_pDeimi": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "separate_section_with_border": true,
+        "color_scheme": "",
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_count": 9,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "",
+        "title": "Recently viewed products",
         "content": ""
       }
     },
@@ -193,6 +236,7 @@
   "order": [
     "main",
     "related-products",
+    "recently_viewed_products_pDeimi",
     "collection_list_iGVkCT"
   ]
 }

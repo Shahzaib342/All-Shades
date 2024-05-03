@@ -4,7 +4,7 @@
       "type": "collection-banner",
       "settings": {
         "color_scheme": "scheme-2",
-        "image": "shopify://shop_images/logo.jpg",
+        "image": "shopify:\/\/shop_images\/logo.jpg",
         "image_size": "auto",
         "allow_transparent_header": false,
         "reveal": true,

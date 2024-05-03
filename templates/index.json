@@ -6,13 +6,14 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "subheading": "Tell your story",
-            "title": "Image slide",
+            "image": "shopify:\/\/shop_images\/womens-fashion-woman-denim-shorts-holding-pockets.jpg",
+            "subheading": "Travel In Vogue",
+            "title": "ALL SHADES-BE\"YOU\"TIFUL",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "content_max_width": 780,
-            "button_1_text": "",
-            "button_1_link": "",
+            "content_max_width": 760,
+            "button_1_text": "Shop Now",
+            "button_1_link": "shopify:\/\/collections",
             "button_1_style": "solid",
             "button_1_background": "#ffffff",
             "button_1_text_color": "#000000",
@@ -25,18 +26,19 @@
             "background_opacity": 50,
             "text_color": "#ffffff",
             "border_color": "",
-            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2) 0%, rgba(4, 4, 4, 0.65) 100%)"
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
           }
         },
         "slide-2": {
           "type": "image",
           "settings": {
-            "subheading": "Tell your story",
-            "title": "Image slide",
+            "image": "shopify:\/\/shop_images\/woman-shopping-for-clothes.jpg",
+            "subheading": "TRAVEL PUFFY DUFFLE BAGS",
+            "title": "ALL SHADES-BE\"YOU\"TIFUL",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
-            "button_1_text": "",
+            "button_1_text": "Shop Now",
             "button_1_link": "",
             "button_1_style": "solid",
             "button_1_background": "#ffffff",
@@ -50,7 +52,7 @@
             "background_opacity": 50,
             "text_color": "#ffffff",
             "border_color": "",
-            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2) 0%, rgba(4, 4, 4, 0.65) 100%)"
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
           }
         }
       },
@@ -61,7 +63,7 @@
       "settings": {
         "allow_transparent_header": false,
         "show_next_section_button": true,
-        "media_size": "auto",
+        "media_size": "md",
         "show_initial_transition": false,
         "autoplay": true,
         "autoplay_pause_on_video": true,
@@ -70,13 +72,57 @@
         "controls_color": "#ffffff"
       }
     },
+    "multiple_media_with_text_3JNjgR": {
+      "type": "multiple-media-with-text",
+      "blocks": {
+        "image_4FzpTq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/A78A2EC2-1248-4803-9391-A6508FD001B0_d1483dfa-6fb9-4b02-b8a7-27e1e35bf295.webp",
+            "rotation": 0
+          }
+        },
+        "image_FBUbNG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/68DF7E11-65FC-4F18-8330-149BAA9789E7_1.jpg",
+            "rotation": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_4FzpTq",
+        "image_FBUbNG"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "reveal_on_scroll": true,
+        "separate_section_with_border": false,
+        "media_position_desktop": "after_text",
+        "media_position_mobile": "before_text",
+        "media_layout": "overlap",
+        "media_alignment": "center",
+        "media_alignment_offset": 0,
+        "media_mobile_alignment_offset": 0,
+        "text_alignment": "center",
+        "subheading": "Welcome to",
+        "title": "allshades-beyoutiful",
+        "content": "<p>Explore timeless fashion with our chic kimonos. Elevate your lifestyle with versatile organizers, silk eye-masks, and travel essentials. Celebrate your unique style and embrace beauty in every purchase. Happy shopping!<\/p>",
+        "button_1_text": "",
+        "button_1_link": "",
+        "button_1_style": "solid",
+        "button_2_text": "",
+        "button_2_link": "",
+        "button_2_style": "solid"
+      }
+    },
     "featured-collections": {
       "type": "featured-collections",
       "blocks": {
-        "collection-1": {
+        "collection_aGa6Hw": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "best-sellers",
             "products_count": 8,
             "title": "",
             "link_url": "",
@@ -85,7 +131,7 @@
         }
       },
       "block_order": [
-        "collection-1"
+        "collection_aGa6Hw"
       ],
       "settings": {
         "color_scheme": "",
@@ -99,6 +145,29 @@
         "subheading": "Featured collection"
       }
     },
+    "countdown_hXt9Kd": {
+      "type": "countdown",
+      "settings": {
+        "color_scheme": "scheme-9c7a4313-1423-4959-b872-9f7e3873f298",
+        "separate_section_with_border": false,
+        "image": "shopify:\/\/shop_images\/pexels-anastasiya-gepp-654466-1462637.jpg",
+        "image_size": "xs",
+        "subheading": "",
+        "title": "Special offer",
+        "content": "<p>Share something about your limited offer or temporary promotion.<\/p>",
+        "button_link": "",
+        "button_text": "",
+        "expiration_date": "2024-05-20",
+        "expiration_behavior": "leave",
+        "timer_position": "end",
+        "animate_number": true,
+        "flip_background": "",
+        "flip_background_opacity": 50,
+        "flip_text_color": "",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "multi-column": {
       "type": "multi-column",
       "blocks": {
@@ -107,7 +176,7 @@
           "settings": {
             "title": "Column title",
             "heading_tag": "h3",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_url": "",
             "link_text": ""
           }
@@ -117,7 +186,7 @@
           "settings": {
             "title": "Column title",
             "heading_tag": "h3",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_url": "",
             "link_text": ""
           }
@@ -127,7 +196,7 @@
           "settings": {
             "title": "Column title",
             "heading_tag": "h3",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_url": "",
             "link_text": ""
           }
@@ -138,6 +207,7 @@
         "column-2",
         "column-3"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
@@ -158,112 +228,112 @@
         "collection-1": {
           "type": "collection",
           "settings": {
-            "color_scheme": "",
-            "collection": "",
+            "color_scheme": "scheme-4",
+            "collection": "cover-ups",
             "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
+            "content_position": "place-self-center text-center",
             "subheading": "",
-            "title": "",
-            "button_text": "View products",
+            "title": "{{ block.settings.collection.title }}",
+            "button_text": "",
             "button_link": "",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 50
           }
         },
-        "collection-2": {
+        "collection_GnXKWr": {
           "type": "collection",
           "settings": {
-            "color_scheme": "",
-            "collection": "",
+            "color_scheme": "scheme-4",
+            "collection": "crossbody-handbag",
             "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
+            "content_position": "place-self-center text-center",
             "subheading": "",
-            "title": "",
-            "button_text": "View products",
+            "title": "{{ block.settings.collection.title }}",
+            "button_text": "",
             "button_link": "",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 50
           }
         },
-        "collection-3": {
+        "collection_kND79H": {
           "type": "collection",
           "settings": {
-            "color_scheme": "",
-            "collection": "",
+            "color_scheme": "scheme-4",
+            "collection": "heated-cold-neck-wrap",
             "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
+            "content_position": "place-self-center text-center",
             "subheading": "",
-            "title": "",
-            "button_text": "View products",
+            "title": "{{ block.settings.collection.title }}",
+            "button_text": "",
             "button_link": "",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 50
           }
         },
-        "collection-4": {
+        "collection_pjLFqd": {
           "type": "collection",
           "settings": {
-            "color_scheme": "",
-            "collection": "",
+            "color_scheme": "scheme-4",
+            "collection": "large-tote-bags",
             "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
+            "content_position": "place-self-center text-center",
             "subheading": "",
-            "title": "",
-            "button_text": "View products",
+            "title": "{{ block.settings.collection.title }}",
+            "button_text": "",
             "button_link": "",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 50
           }
         },
-        "collection-5": {
+        "collection_nnAdUa": {
           "type": "collection",
           "settings": {
-            "color_scheme": "",
-            "collection": "",
+            "color_scheme": "scheme-4",
+            "collection": "microfiber-head-towel-wrap",
             "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
+            "content_position": "place-self-center text-center",
             "subheading": "",
-            "title": "",
-            "button_text": "View products",
+            "title": "{{ block.settings.collection.title }}",
+            "button_text": "",
             "button_link": "",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 50
           }
         },
-        "collection-6": {
+        "collection_dpT4TV": {
           "type": "collection",
           "settings": {
-            "color_scheme": "",
-            "collection": "",
+            "color_scheme": "scheme-4",
+            "collection": "silk-eye-mask",
             "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
+            "content_position": "place-self-center text-center",
             "subheading": "",
-            "title": "",
-            "button_text": "View products",
+            "title": "{{ block.settings.collection.title }}",
+            "button_text": "",
             "button_link": "",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 50
           }
         }
       },
       "block_order": [
         "collection-1",
-        "collection-2",
-        "collection-3",
-        "collection-4",
-        "collection-5",
-        "collection-6"
+        "collection_GnXKWr",
+        "collection_kND79H",
+        "collection_pjLFqd",
+        "collection_nnAdUa",
+        "collection_dpT4TV"
       ],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "image_size": "auto",
+        "image_size": "xs",
         "show_text_outside": false,
         "space_items": true,
         "stack_collections": true,
         "collections_per_row_desktop": 3,
-        "subheading": "",
-        "title": "",
+        "subheading": "Explore",
+        "title": "Must Have Collections",
         "content": ""
       }
     },
@@ -295,12 +365,13 @@
         "before",
         "after"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
         "subheading": "",
-        "title": "Before/after",
-        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+        "title": "Before\/after",
+        "content": "<p>Showcase your product benefit by using before\/after image comparison.<\/p>",
         "cursor_direction": "horizontal",
         "cursor_initial_position": 50,
         "cursor_background": "#ffffff",
@@ -313,9 +384,10 @@
         "item-1": {
           "type": "image_with_text",
           "settings": {
+            "image": "shopify:\/\/shop_images\/3064B41D-01F1-478B-A68B-9CA7A14636C0.jpg",
             "subheading": "",
             "title": "#1",
-            "content": "<p>Welcome your customers to your store by sharing temporary offers or explaining to them what your products are about.</p>",
+            "content": "<p>Welcome your customers to your store by sharing temporary offers or explaining to them what your products are about.<\/p>",
             "link_text": "",
             "link_url": "",
             "link_style": "solid"
@@ -324,9 +396,10 @@
         "item-2": {
           "type": "image_with_text",
           "settings": {
+            "image": "shopify:\/\/shop_images\/A78A2EC2-1248-4803-9391-A6508FD001B0.jpg",
             "subheading": "",
             "title": "#2",
-            "content": "<p>Create trust with your customers by explaining the story of your brand. Share your values or what is important to you.</p>",
+            "content": "<p>Create trust with your customers by explaining the story of your brand. Share your values or what is important to you.<\/p>",
             "link_text": "",
             "link_url": "",
             "link_style": "solid"
@@ -335,9 +408,10 @@
         "item-3": {
           "type": "image_with_text",
           "settings": {
+            "image": "shopify:\/\/shop_images\/25C42079-9905-4DE3-B70D-5302561A49BA.jpg",
             "subheading": "",
             "title": "#3",
-            "content": "<p>Share information about your product with your customers. Describe a product, and share info about your production process...</p>",
+            "content": "<p>Share information about your product with your customers. Describe a product, and share info about your production process...<\/p>",
             "link_text": "",
             "link_url": "",
             "link_style": "solid"
@@ -349,67 +423,12 @@
         "item-2",
         "item-3"
       ],
+      "disabled": true,
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-9c7a4313-1423-4959-b872-9f7e3873f298",
         "image_position": "start",
         "text_alignment": "center",
-        "heading_tag": "h3",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "multiple-media-with-text": {
-      "type": "multiple-media-with-text",
-      "blocks": {
-        "image-1": {
-          "type": "image",
-          "settings": {
-            "rotation": 0
-          }
-        },
-        "image-2": {
-          "type": "image",
-          "settings": {
-            "rotation": 0
-          }
-        }
-      },
-      "block_order": [
-        "image-1",
-        "image-2"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "reveal_on_scroll": true,
-        "separate_section_with_border": true,
-        "media_position_desktop": "before_text",
-        "media_position_mobile": "before_text",
-        "media_layout": "overlap",
-        "media_alignment": "center",
-        "media_alignment_offset": 0,
-        "media_mobile_alignment_offset": 0,
-        "text_alignment": "center",
-        "subheading": "About",
-        "title": "Showcase your product",
-        "content": "<p>Write some content about your products, collections or brand. Use image or video to create an impactful layout.</p>",
-        "button_1_text": "",
-        "button_1_link": "",
-        "button_1_style": "solid",
-        "button_2_text": "",
-        "button_2_link": "",
-        "button_2_style": "solid"
-      }
-    },
-    "newsletter": {
-      "type": "newsletter",
-      "settings": {
-        "color_scheme": "scheme-2",
-        "separate_section_with_border": true,
-        "image_size": "auto",
-        "subheading": "",
-        "title": "<strong>JOIN THE TRAVEL ACCESSORIES CLUB & GET 20% OFF!</strong>",
-        "content": "<p>For discounts, coupons and new product announcements.</p>",
-        "button_text": "Subscribe",
+        "heading_tag": "h1",
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
@@ -420,16 +439,17 @@
         "look-1": {
           "type": "look",
           "settings": {
+            "image": "shopify:\/\/shop_images\/A26306AC-333E-4034-BCFF-32A6258EF857.jpg",
             "hot_spots_background": "#ffffff",
-            "product_1": "",
-            "product_1_horizontal_position": 55,
-            "product_1_vertical_position": 30,
-            "product_2": "",
-            "product_2_horizontal_position": 25,
+            "product_1": "weekender-travel-shopping-beach-bag-totes",
+            "product_1_horizontal_position": 35,
+            "product_1_vertical_position": 82,
+            "product_2": "swim-coverups",
+            "product_2_horizontal_position": 44,
             "product_2_vertical_position": 40,
             "product_3": "",
-            "product_3_horizontal_position": 65,
-            "product_3_vertical_position": 60,
+            "product_3_horizontal_position": 30,
+            "product_3_vertical_position": 49,
             "product_4": "",
             "product_4_horizontal_position": 85,
             "product_4_vertical_position": 85
@@ -439,11 +459,10 @@
       "block_order": [
         "look-1"
       ],
-      "disabled": true,
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-c64239d7-b52b-437b-b1ff-1bb19c331877",
         "separate_section_with_border": true,
-        "subheading": "",
+        "subheading": "commonly purchased",
         "title": "Shop the look",
         "content": "",
         "popover_title": "Shop the look"
@@ -454,30 +473,45 @@
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "blog": "",
+        "blog": "news",
         "posts_count": 3,
         "stack_on_mobile": false,
         "show_category": true,
         "show_excerpt": true,
         "show_read_more": true,
-        "subheading": "",
-        "title": "Blog posts",
+        "subheading": "learn & discover",
+        "title": "allshades Journal",
         "content": "",
         "button_link": "",
-        "button_text": "View all"
+        "button_text": ""
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "settings": {
+        "color_scheme": "scheme-9c7a4313-1423-4959-b872-9f7e3873f298",
+        "separate_section_with_border": false,
+        "image_size": "auto",
+        "subheading": "",
+        "title": "JOIN THE TRAVEL ACCESSORIES CLUB & GET 20% OFF!",
+        "content": "<p>For discounts, coupons and new product announcements.<\/p>",
+        "button_text": "Subscribe",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     }
   },
   "order": [
     "slideshow",
+    "multiple_media_with_text_3JNjgR",
     "featured-collections",
+    "countdown_hXt9Kd",
     "multi-column",
     "collection-list",
     "before-after",
     "image-with-text-scroll",
-    "multiple-media-with-text",
-    "newsletter",
     "shop-the-look",
-    "blog-posts"
+    "blog-posts",
+    "newsletter"
   ]
 }

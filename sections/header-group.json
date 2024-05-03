@@ -16,7 +16,7 @@
         "message-1"
       ],
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-9c7a4313-1423-4959-b872-9f7e3873f298",
         "enable_sticky": false,
         "autoplay": true,
         "cycle_speed": 5,
@@ -45,14 +45,14 @@
           "settings": {
             "menu_item": "Collections",
             "images_position": "right",
-            "image_1": "shopify://shop_images/pexels-anastasiya-gepp-654466-1462637.jpg",
-            "image_1_heading": "Women Fashion",
-            "image_1_text": "See All Collection",
-            "image_1_link": "shopify://collections",
-            "image_2": "shopify://shop_images/megamenu-img2_1.jpg",
-            "image_2_heading": "Shop By Collection",
-            "image_2_text": "See All Collection",
-            "image_2_link": "shopify://collections"
+            "image_1": "shopify:\/\/shop_images\/C259142D-2F2E-4295-ABBF-C21C60ACB352.jpg",
+            "image_1_heading": "Best Sellers",
+            "image_1_text": "See Collection",
+            "image_1_link": "shopify:\/\/collections",
+            "image_2": "shopify:\/\/shop_images\/49770764-3F89-40C9-B67F-FC876D260E02.jpg",
+            "image_2_heading": "Travel Tote Bags",
+            "image_2_text": "See Collection",
+            "image_2_link": "shopify:\/\/collections"
           }
         }
       },
@@ -65,8 +65,8 @@
         "enable_sticky": true,
         "hide_on_scroll": false,
         "show_separation_border": true,
-        "reduce_padding": false,
-        "logo": "shopify://shop_images/AllShade.png",
+        "reduce_padding": true,
+        "logo": "shopify:\/\/shop_images\/AllShade.png",
         "logo_max_width": 280,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
@@ -76,8 +76,8 @@
         "sidebar_color_scheme": "scheme-1",
         "sidebar_text_font": "heading",
         "sidebar_show_dividers": true,
-        "layout": "logo_center_navigation_inline",
-        "show_icons": true,
+        "layout": "logo_left_navigation_center",
+        "show_icons": false,
         "show_country_selector": false,
         "show_country_name": false,
         "show_country_flag": false,
