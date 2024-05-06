@@ -1,7 +1,6 @@
 {
   "current": {
-    "icon_stroke_width": 1,
-    "section_vertical_spacing": "xl",
+    "section_vertical_spacing": "md",
     "button_border_radius": 0,
     "default_color_scheme": "scheme-1",
     "modal_color_scheme": "scheme-1",
@@ -19,25 +18,30 @@
     "button_letter_spacing": 10,
     "show_page_transition": true,
     "round_color_swatches": true,
-    "product_image_aspect_ratio": "tall_crop",
-    "show_secondary_image": false,
+    "product_image_aspect_ratio": "square_crop",
     "show_vendor": false,
     "product_title_max_lines": 2,
     "product_card_text_font": "heading",
-    "product_color_display": "swatch",
     "show_product_rating": false,
-    "cart_icon": "shopping_bag_sharp",
-    "cart_show_free_shipping_bar": false,
     "social_facebook": "#",
     "social_twitter": "#",
     "social_instagram": "#",
     "social_linkedin": "#",
-    "content_for_index": [],
+    "content_for_index": [
+
+    ],
     "blocks": {
       "1143683040400472741": {
         "type": "shopify:\/\/apps\/trustoo-io-product-reviews\/blocks\/trustoo-review-switch\/c8f15077-6475-4e86-ad06-b66038d5ba2c",
         "disabled": false,
-        "settings": {}
+        "settings": {
+        }
+      },
+      "16789939927838974014": {
+        "type": "shopify:\/\/apps\/rivyo-product-reviews\/blocks\/app-embed\/f1860e84-309f-40ca-a2df-188435a622f3",
+        "disabled": true,
+        "settings": {
+        }
       }
     },
     "color_schemes": {
@@ -46,7 +50,7 @@
           "background": "#ffffff",
           "background_gradient": "",
           "text_color": "#131313",
-          "primary_button_background": "#ae8157",
+          "primary_button_background": "#5c5c5c",
           "primary_button_text_color": "#ffffff",
           "circle_button_background": "#ffffff",
           "circle_button_icon": "#1c1c1c"
@@ -56,8 +60,8 @@
         "settings": {
           "background": "#f3f3f3",
           "background_gradient": "",
-          "text_color": "#1c1c1c",
-          "primary_button_background": "#ae8157",
+          "text_color": "#5c5c5c",
+          "primary_button_background": "#5c5c5c",
           "primary_button_text_color": "#ffffff",
           "circle_button_background": "#ffffff",
           "circle_button_icon": "#5c5c5c"
@@ -83,28 +87,6 @@
           "primary_button_text_color": "#1c1c1c",
           "circle_button_background": "#ffffff",
           "circle_button_icon": "#1c1c1c"
-        }
-      },
-      "scheme-c64239d7-b52b-437b-b1ff-1bb19c331877": {
-        "settings": {
-          "background": "#f8f8f8",
-          "background_gradient": "",
-          "text_color": "#131313",
-          "primary_button_background": "#1c1c1c",
-          "primary_button_text_color": "#fff",
-          "circle_button_background": "#ffffff",
-          "circle_button_icon": "#1c1c1c"
-        }
-      },
-      "scheme-9c7a4313-1423-4959-b872-9f7e3873f298": {
-        "settings": {
-          "background": "#ae8157",
-          "background_gradient": "",
-          "text_color": "#ffffff",
-          "primary_button_background": "#ffffff",
-          "primary_button_text_color": "#ae8157",
-          "circle_button_background": "#ae8157",
-          "circle_button_icon": "#ffffff"
         }
       }
     }
