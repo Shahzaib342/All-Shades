@@ -6,7 +6,7 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/womens-fashion-woman-denim-shorts-holding-pockets.jpg",
+            "image": "shopify:\/\/shop_images\/New_Project.webp",
             "subheading": "Travel In Vogue",
             "title": "ALL SHADES-BE\"YOU\"TIFUL",
             "mobile_text_position": "place-self-center text-center",
@@ -32,7 +32,7 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/woman-shopping-for-clothes.jpg",
+            "image": "shopify:\/\/shop_images\/New_Project_1.webp",
             "subheading": "TRAVEL PUFFY DUFFLE BAGS",
             "title": "ALL SHADES-BE\"YOU\"TIFUL",
             "mobile_text_position": "place-self-center text-center",
@@ -63,7 +63,7 @@
       "settings": {
         "allow_transparent_header": false,
         "show_next_section_button": true,
-        "media_size": "md",
+        "media_size": "lg",
         "show_initial_transition": false,
         "autoplay": true,
         "autoplay_pause_on_video": true,
@@ -105,15 +105,53 @@
         "media_alignment_offset": 0,
         "media_mobile_alignment_offset": 0,
         "text_alignment": "center",
-        "subheading": "Welcome to",
-        "title": "allshades-beyoutiful",
-        "content": "<p>Explore timeless fashion with our chic kimonos. Elevate your lifestyle with versatile organizers, silk eye-masks, and travel essentials. Celebrate your unique style and embrace beauty in every purchase. Happy shopping!<\/p>",
-        "button_1_text": "",
+        "subheading": "",
+        "title": "Our mission",
+        "content": "<p>At AllShades BeYoutiful, our mission is to inspire and empower travelers around the world to embark on their journeys with confidence, comfort, style, and convenience. We believe that every adventure, whether near or far, should be an opportunity for exploration, self-discovery, and meaningful connections, no matter if it’s via car, train, or plane - we want you looking good and feeling good, always.<\/p>",
+        "button_1_text": "Learn more",
         "button_1_link": "",
-        "button_1_style": "solid",
+        "button_1_style": "link",
         "button_2_text": "",
         "button_2_link": "",
         "button_2_style": "solid"
+      }
+    },
+    "image_with_text_xyeKEV": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_xY9cpd": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_p7QyaK": {
+          "type": "heading",
+          "settings": {
+            "text": "Image with text",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_LyF6KQ": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_xY9cpd",
+        "heading_p7QyaK",
+        "richtext_LyF6KQ"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
       }
     },
     "featured-collections": {
@@ -125,8 +163,8 @@
             "collection": "best-sellers",
             "products_count": 8,
             "title": "",
-            "link_url": "",
-            "link_text": "View all"
+            "link_url": "shopify:\/\/collections\/best-sellers",
+            "link_text": "SHOP BESTSELLERS"
           }
         }
       },
@@ -147,6 +185,7 @@
     },
     "countdown_hXt9Kd": {
       "type": "countdown",
+      "disabled": true,
       "settings": {
         "color_scheme": "scheme-9c7a4313-1423-4959-b872-9f7e3873f298",
         "separate_section_with_border": false,
@@ -231,13 +270,13 @@
             "color_scheme": "scheme-4",
             "collection": "cover-ups",
             "expand_collection": false,
-            "content_position": "place-self-center text-center",
+            "content_position": "place-self-end-start text-start",
             "subheading": "",
             "title": "{{ block.settings.collection.title }}",
-            "button_text": "",
-            "button_link": "",
+            "button_text": "Shop",
+            "button_link": "shopify:\/\/collections\/cover-ups",
             "overlay_color": "#000000",
-            "overlay_opacity": 50
+            "overlay_opacity": 40
           }
         },
         "collection_GnXKWr": {
@@ -246,13 +285,13 @@
             "color_scheme": "scheme-4",
             "collection": "crossbody-handbag",
             "expand_collection": false,
-            "content_position": "place-self-center text-center",
+            "content_position": "place-self-end-start text-start",
             "subheading": "",
             "title": "{{ block.settings.collection.title }}",
-            "button_text": "",
-            "button_link": "",
+            "button_text": "Shop",
+            "button_link": "shopify:\/\/collections\/crossbody-handbag",
             "overlay_color": "#000000",
-            "overlay_opacity": 50
+            "overlay_opacity": 40
           }
         },
         "collection_kND79H": {
@@ -261,13 +300,13 @@
             "color_scheme": "scheme-4",
             "collection": "heated-cold-neck-wrap",
             "expand_collection": false,
-            "content_position": "place-self-center text-center",
+            "content_position": "place-self-end-start text-start",
             "subheading": "",
             "title": "{{ block.settings.collection.title }}",
-            "button_text": "",
+            "button_text": "Shop",
             "button_link": "",
             "overlay_color": "#000000",
-            "overlay_opacity": 50
+            "overlay_opacity": 40
           }
         },
         "collection_pjLFqd": {
@@ -276,13 +315,13 @@
             "color_scheme": "scheme-4",
             "collection": "large-tote-bags",
             "expand_collection": false,
-            "content_position": "place-self-center text-center",
+            "content_position": "place-self-end-start text-start",
             "subheading": "",
             "title": "{{ block.settings.collection.title }}",
-            "button_text": "",
+            "button_text": "Shop",
             "button_link": "",
             "overlay_color": "#000000",
-            "overlay_opacity": 50
+            "overlay_opacity": 40
           }
         },
         "collection_nnAdUa": {
@@ -291,13 +330,13 @@
             "color_scheme": "scheme-4",
             "collection": "microfiber-head-towel-wrap",
             "expand_collection": false,
-            "content_position": "place-self-center text-center",
+            "content_position": "place-self-end-start text-start",
             "subheading": "",
             "title": "{{ block.settings.collection.title }}",
-            "button_text": "",
+            "button_text": "Shop",
             "button_link": "",
             "overlay_color": "#000000",
-            "overlay_opacity": 50
+            "overlay_opacity": 40
           }
         },
         "collection_dpT4TV": {
@@ -306,13 +345,13 @@
             "color_scheme": "scheme-4",
             "collection": "silk-eye-mask",
             "expand_collection": false,
-            "content_position": "place-self-center text-center",
+            "content_position": "place-self-end-start text-start",
             "subheading": "",
             "title": "{{ block.settings.collection.title }}",
-            "button_text": "",
+            "button_text": "Shop",
             "button_link": "",
             "overlay_color": "#000000",
-            "overlay_opacity": 50
+            "overlay_opacity": 40
           }
         }
       },
@@ -327,7 +366,7 @@
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "image_size": "xs",
+        "image_size": "sm",
         "show_text_outside": false,
         "space_items": true,
         "stack_collections": true,
@@ -459,6 +498,7 @@
       "block_order": [
         "look-1"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "scheme-c64239d7-b52b-437b-b1ff-1bb19c331877",
         "separate_section_with_border": true,
@@ -482,14 +522,14 @@
         "subheading": "learn & discover",
         "title": "allshades Journal",
         "content": "",
-        "button_link": "",
-        "button_text": ""
+        "button_link": "shopify:\/\/blogs\/news",
+        "button_text": "View all articles"
       }
     },
     "newsletter": {
       "type": "newsletter",
       "settings": {
-        "color_scheme": "scheme-9c7a4313-1423-4959-b872-9f7e3873f298",
+        "color_scheme": "scheme-3",
         "separate_section_with_border": false,
         "image_size": "auto",
         "subheading": "",
@@ -504,6 +544,7 @@
   "order": [
     "slideshow",
     "multiple_media_with_text_3JNjgR",
+    "image_with_text_xyeKEV",
     "featured-collections",
     "countdown_hXt9Kd",
     "multi-column",

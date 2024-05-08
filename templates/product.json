@@ -6,7 +6,7 @@
         "title": {
           "type": "title",
           "settings": {
-            "heading_tag": "h3"
+            "heading_tag": "h4"
           }
         },
         "vendor": {
@@ -118,7 +118,7 @@
       "custom_css": [],
       "settings": {
         "color_scheme": "scheme-1",
-        "container_size": "lg",
+        "container_size": "full",
         "product_info_size": 34,
         "show_sticky_add_to_cart": true,
         "center_basic_info": false,
@@ -133,6 +133,7 @@
     },
     "related-products": {
       "type": "related-products",
+      "disabled": true,
       "settings": {
         "color_scheme": "scheme-2",
         "separate_section_with_border": false,
@@ -161,7 +162,7 @@
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
         "subheading": "",
-        "title": "Recently viewed products",
+        "title": "Recently viewed",
         "content": ""
       }
     },
@@ -219,6 +220,7 @@
         "collection_Ld7kk7",
         "collection_ixD3qG"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "scheme-1",
         "separate_section_with_border": true,
