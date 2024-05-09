@@ -19,6 +19,7 @@
     "button_letter_spacing": 10,
     "show_page_transition": true,
     "round_color_swatches": true,
+    "color_swatch_config": "Pink Rose: #E7A1B0\nRed Wine: #990012\nLight Green: #90EE90\nYellow Gold: #FFDF00\nNavy\/White Check: #29DBF0\nGreen\/White Check: #f8f8f8\nCheck Green\/White: #f8f8f8\nAlmond: #EADDCA\nBlue\/White Check: #F4F5FF\nTweed Red multi color: #b3563c\nBlack\/Brown Patch: #1a1a19\nMulti-color Patch: #15906e\nMulti-color Blue Circle Patc: #0066b2\nMoon\/Stars: #d8d6d1\nMulti-color Stars: #ffd27d\nMulti-color Print: #363d57\nOrange Blossom: #db8939\nLight Blue\/White: #d4eefb\nLady Eyes: #4066a6\nDaisy: #f2eddf\nSolar System: #4f626f\nGalaxy: #00076f\nLight Pink: #FFB6C1\nMulti Stripe: #7c8bbd\nBlack\/white: #000000\nBlack Cross Over: #000000\nYellow Cross Over: #FFFF00\nAqua Blue Cover UP: #00FFFF\nCream\/Off White: #FFFDD0\nBlack Rose: #67032D\nYellow\/Gold: #FFDF00\nWhite\/Blue: #F4F5FF\nGrey\/Rose: #A6908E\nCamel: #C19A6B\nLight Grey: #D3D3D3\nDark Pink: #AA336A\nLight Blue:  #ADD8E6\nLavender Blue: #ccccff\nBlush: #FE828C",
     "product_image_aspect_ratio": "tall_crop",
     "show_secondary_image": false,
     "show_vendor": false,
