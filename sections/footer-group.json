@@ -1,1 +1,135 @@
-{"type":"footer","name":"Footer group","sections":{"text-with-icons":{"type":"text-with-icons","blocks":{"icon-1":{"type":"item","settings":{"title":"Free delivery worldwide"}},"icon-2":{"type":"item","settings":{"title":"Satisfied or refunded"}},"icon-3":{"type":"item","settings":{"title":"Top-notch support"}},"icon-4":{"type":"item","settings":{"title":"Secure payments"}}},"block_order":["icon-1","icon-2","icon-3","icon-4"],"settings":{}},"footer":{"type":"footer","blocks":{"newsletter":{"type":"newsletter","settings":{}},"links":{"type":"links","settings":{"menu":"footer","show_menu_title":true}},"text":{"type":"text","settings":{"title":"About","content":"<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.<\/p>"}}},"block_order":["newsletter","links","text"],"settings":{}}},"order":["text-with-icons","footer"]}
+{
+  "type": "footer",
+  "name": "Footer group",
+  "sections": {
+    "text-with-icons": {
+      "type": "text-with-icons",
+      "blocks": {
+        "icon-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-award-gift",
+            "icon_width": 56,
+            "mobile_icon_width": 32,
+            "title": "<strong>Free delivery worldwide<\/strong>",
+            "content": "<p>Short content about your store<\/p>"
+          }
+        },
+        "icon-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-return",
+            "icon_width": 56,
+            "mobile_icon_width": 32,
+            "title": "<strong>Satisfied or refunded<\/strong>",
+            "content": "<p>Short content about your store<\/p>"
+          }
+        },
+        "icon-3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-at-sign",
+            "icon_width": 56,
+            "mobile_icon_width": 32,
+            "title": "<strong>Top-notch support<\/strong>",
+            "content": "<p>Short content about your store<\/p>"
+          }
+        },
+        "icon-4": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "icon_width": 56,
+            "mobile_icon_width": 32,
+            "title": "<strong>Secure payments<\/strong>",
+            "content": "<p>Short content about your store<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "icon-1",
+        "icon-2",
+        "icon-3",
+        "icon-4"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "separate_section_with_border": true,
+        "stack_on_mobile": false,
+        "icon_color": "#776d62",
+        "text_color": "",
+        "text_alignment": "center"
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "text_YPNTmD": {
+          "type": "text",
+          "settings": {
+            "title": "<strong>About Us<\/strong>",
+            "content": "<p>Allshades-BeYOUtiful is an e-commerce store that specializes in travel essentials and accessories. <\/p>",
+            "enable_follow_on_shop": true
+          }
+        },
+        "links": {
+          "type": "links",
+          "settings": {
+            "menu": "footer-collections",
+            "show_menu_title": true,
+            "menu_title": "Shop"
+          }
+        },
+        "links_3B9PJE": {
+          "type": "links",
+          "settings": {
+            "menu": "company",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
+        },
+        "newsletter": {
+          "type": "newsletter",
+          "disabled": true,
+          "settings": {
+            "title": "Newsletter",
+            "content": "<p>Sign up to our newsletter to receive exclusive offers.<\/p>",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "html_nVi7f4": {
+          "type": "html",
+          "settings": {
+            "title": "Newsletter",
+            "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.<\/p>",
+            "klaviyo_id": "YugGe9",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_YPNTmD",
+        "links",
+        "links_3B9PJE",
+        "newsletter",
+        "html_nVi7f4"
+      ],
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": false,
+        "show_social_media": true,
+        "show_payment_icons": true,
+        "show_country_selector": true,
+        "show_country_name": true,
+        "show_country_flag": true,
+        "show_locale_selector": true
+      }
+    }
+  },
+  "order": [
+    "text-with-icons",
+    "footer"
+  ]
+}
