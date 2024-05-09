@@ -28,21 +28,27 @@
     "show_product_rating": false,
     "cart_icon": "shopping_bag_sharp",
     "cart_show_free_shipping_bar": false,
-    "social_facebook": "#",
+    "social_facebook": "https:\/\/www.facebook.com\/profile.php?id=100087197891445",
     "social_twitter": "#",
-    "social_instagram": "#",
+    "social_pinterest": "https:\/\/pinterest.com\/allshadesbeyou",
+    "social_instagram": "https:\/\/www.instagram.com\/allshades_beyoutiful\/",
+    "social_tiktok": "https:\/\/tiktok.com\/@allshades_beyoutiful?lang=en",
     "social_linkedin": "#",
-    "content_for_index": [],
+    "content_for_index": [
+
+    ],
     "blocks": {
       "1143683040400472741": {
         "type": "shopify:\/\/apps\/trustoo-io-product-reviews\/blocks\/trustoo-review-switch\/c8f15077-6475-4e86-ad06-b66038d5ba2c",
         "disabled": false,
-        "settings": {}
+        "settings": {
+        }
       },
       "855628211100114053": {
         "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
-        "settings": {}
+        "settings": {
+        }
       }
     },
     "color_schemes": {
