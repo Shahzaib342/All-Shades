@@ -3,8 +3,7 @@
     "collection-banner": {
       "type": "collection-banner",
       "settings": {
-        "color_scheme": "scheme-2",
-        "image": "shopify:\/\/shop_images\/logo.jpg",
+        "color_scheme": "scheme-1",
         "image_size": "auto",
         "allow_transparent_header": false,
         "reveal": true,
@@ -12,10 +11,10 @@
         "show_image": true,
         "show_collection_title": true,
         "show_collection_description": false,
-        "show_breadcrumb": true,
+        "show_breadcrumb": false,
         "content_width": "xs",
         "overlay_color": "#1c1c1c",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "main": {
@@ -25,7 +24,7 @@
         "hide_product_information": false,
         "products_per_page": 48,
         "products_per_row_mobile": "2",
-        "products_size_desktop": "medium",
+        "products_size_desktop": "large",
         "show_grid_mode_selector": true,
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,

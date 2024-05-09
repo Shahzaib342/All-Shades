@@ -529,13 +529,15 @@
     "newsletter": {
       "type": "newsletter",
       "settings": {
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-c64239d7-b52b-437b-b1ff-1bb19c331877",
         "separate_section_with_border": false,
         "image_size": "auto",
         "subheading": "",
         "title": "JOIN THE TRAVEL ACCESSORIES CLUB & GET 20% OFF!",
         "content": "<p>For discounts, coupons and new product announcements.<\/p>",
         "button_text": "Subscribe",
+        "klaviyo_enable": true,
+        "klaviyo_id": "YugGe9",
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
