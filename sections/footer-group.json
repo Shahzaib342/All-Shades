@@ -98,11 +98,11 @@
             "button_text_color": ""
           }
         },
-        "html_nVi7f4": {
+        "html_NyBH4B": {
           "type": "html",
           "settings": {
-            "title": "Newsletter",
-            "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.<\/p>",
+            "title": "Klaviyo Newsletter",
+            "content": "<p>Sign up to our newsletter to receive exclusive offers.<\/p>",
             "klaviyo_id": "YugGe9",
             "button_background": "",
             "button_text_color": ""
@@ -114,7 +114,7 @@
         "links",
         "links_3B9PJE",
         "newsletter",
-        "html_nVi7f4"
+        "html_NyBH4B"
       ],
       "settings": {
         "color_scheme": "scheme-2",
