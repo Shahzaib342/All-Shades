@@ -32,17 +32,21 @@
     "social_twitter": "#",
     "social_instagram": "#",
     "social_linkedin": "#",
-    "content_for_index": [],
+    "content_for_index": [
+
+    ],
     "blocks": {
       "1143683040400472741": {
         "type": "shopify:\/\/apps\/trustoo-io-product-reviews\/blocks\/trustoo-review-switch\/c8f15077-6475-4e86-ad06-b66038d5ba2c",
         "disabled": false,
-        "settings": {}
+        "settings": {
+        }
       },
       "855628211100114053": {
         "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
-        "settings": {}
+        "settings": {
+        }
       }
     },
     "color_schemes": {
@@ -51,7 +55,7 @@
           "background": "#ffffff",
           "background_gradient": "",
           "text_color": "#131313",
-          "primary_button_background": "#776d62",
+          "primary_button_background": "#1c1c1c",
           "primary_button_text_color": "#ffffff",
           "circle_button_background": "#ffffff",
           "circle_button_icon": "#1c1c1c"
