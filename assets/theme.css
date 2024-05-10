@@ -2831,7 +2831,7 @@ tfoot td {
   width: var(--swatch-size);
   height: var(--swatch-size);
   padding: var(--swatch-offset);
-  border: var(--swatch-border-size) solid transparent;
+  border: var(--swatch-border-size) solid #ccc;
   background: content-box var(--swatch-background) no-repeat center / cover;
   place-items: center;
   display: grid;
@@ -7649,9 +7649,9 @@ ul {
   /* Track */
   &::-webkit-scrollbar-track {background: #f1f1f1;}
   /* Handle */
-  &::-webkit-scrollbar-thumb {background: #776D62;} 
+  &::-webkit-scrollbar-thumb {background: #000000;} 
   /* Handle on hover */
-  &::-webkit-scrollbar-thumb:hover {background: #60584f;}
+  &::-webkit-scrollbar-thumb:hover {background: #666666;}
 }
 
 .mega-menu__linklist{

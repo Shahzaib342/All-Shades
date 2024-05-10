@@ -78,14 +78,14 @@
         "image_4FzpTq": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/A78A2EC2-1248-4803-9391-A6508FD001B0_d1483dfa-6fb9-4b02-b8a7-27e1e35bf295.webp",
+            "image": "shopify:\/\/shop_images\/7E316E24-2E77-4541-BCBF-91AC50FE4D11.jpg",
             "rotation": 0
           }
         },
         "image_FBUbNG": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/68DF7E11-65FC-4F18-8330-149BAA9789E7_1.jpg",
+            "image": "shopify:\/\/shop_images\/09686DEB-2454-4994-BB65-38E4D56CD6DB.jpg",
             "rotation": 0
           }
         }
@@ -109,7 +109,7 @@
         "title": "Our mission",
         "content": "<p>At AllShades BeYoutiful, our mission is to inspire and empower travelers around the world to embark on their journeys with confidence, comfort, style, and convenience. We believe that every adventure, whether near or far, should be an opportunity for exploration, self-discovery, and meaningful connections, no matter if it’s via car, train, or plane - we want you looking good and feeling good, always.<\/p>",
         "button_1_text": "Learn more",
-        "button_1_link": "",
+        "button_1_link": "shopify:\/\/pages\/mission-statement",
         "button_1_style": "link",
         "button_2_text": "",
         "button_2_link": "",
