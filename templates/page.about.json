@@ -1,0 +1,184 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "show_title": true,
+        "page_width": "xs"
+      }
+    },
+    "image_with_text_overlay_zMw3c6": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_eUiCtB": {
+          "type": "heading",
+          "settings": {
+            "text": "{{ page.title }}",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_eiFAyd": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_eUiCtB",
+        "richtext_eiFAyd"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "image_size": "xs",
+        "image": "shopify:\/\/shop_images\/New_Project.webp",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "image_with_text_74KDA9": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_Wh3FkW": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_nUDddR": {
+          "type": "heading",
+          "settings": {
+            "text": "Allshades-BeYOUtiful",
+            "heading_tag": "h3"
+          }
+        },
+        "richtext_p4pzdG": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Allshades-BeYOUtiful is an e-commerce store that specializes in travel essentials and accessories. We offer a wide range of products that are both practical and stylish, so you can enjoy your travels without sacrificing your sense of fashion. We believe that everyone should be able to enjoy the beauty of the world, regardless of their budget, and our goal is to make travel more accessible for everyone.<\/p><p>We have since then grown into a successful online business. Our products are shipped all over the world, and we have satisfied customers in every corner of the globe. We are constantly expanding our range of products, so that we can offer our customers the best possible selection.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_Wh3FkW",
+        "heading_nUDddR",
+        "richtext_p4pzdG"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "image": "shopify:\/\/shop_images\/slide3.jpg",
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "md",
+        "remove_vertical_spacing": false
+      }
+    },
+    "image_with_text_ByMD4x": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_hwXHRF": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_dHhTRH": {
+          "type": "heading",
+          "settings": {
+            "text": "Allshades-BeYOUtiful",
+            "heading_tag": "h3"
+          }
+        },
+        "richtext_tcmNKm": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Whether you're going on a quick getaway or a longer vacation, we have everything you need to make your trip more relaxing and enjoyable. So browse our collection today and discover the perfect travel essentials for your next adventure!<\/p><p>Thank you for taking the time to learn more about us. We hope that you will visit our store and browse our products. If you have any questions or suggestions, please don't hesitate to contact us. We would love to hear from you!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_hwXHRF",
+        "heading_dHhTRH",
+        "richtext_tcmNKm"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "image": "shopify:\/\/shop_images\/75CAA732-D654-46AB-8254-45E57B7DBF6D_1.jpg",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "md",
+        "remove_vertical_spacing": false
+      }
+    },
+    "video_JwFeL8": {
+      "type": "video",
+      "blocks": {
+        "play_x4E6gt": {
+          "type": "play",
+          "settings": {
+            "icon_color": "#ffffff"
+          }
+        },
+        "heading_Tx3a96": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "play_x4E6gt",
+        "heading_Tx3a96"
+      ],
+      "settings": {
+        "autoplay": true,
+        "show_controls": false,
+        "video_size": "md",
+        "video": "shopify:\/\/files\/videos\/V2(3).mp4",
+        "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff"
+      }
+    },
+    "blog_posts_EqB89m": {
+      "type": "blog-posts",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "blog": "news",
+        "posts_count": 3,
+        "stack_on_mobile": false,
+        "show_category": true,
+        "show_excerpt": true,
+        "show_read_more": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "button_link": "",
+        "button_text": "View all"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_overlay_zMw3c6",
+    "image_with_text_74KDA9",
+    "image_with_text_ByMD4x",
+    "video_JwFeL8",
+    "blog_posts_EqB89m"
+  ]
+}

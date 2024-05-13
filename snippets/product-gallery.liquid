@@ -33,7 +33,7 @@ Supported variables
     #shopify-section-{{ section.id }} {
       {%- if desktop_layout == 'carousel_thumbnails_left' or desktop_layout == 'grid' -%}
         /* Thumbnails on the left */
-        --product-gallery-flex-direction: row-reverse;
+        --product-gallery-flex-direction: row;
         --product-gallery-thumbnail-list-grid-auto-flow: row;
 
         {%- if desktop_layout == 'carousel_thumbnails_left' -%}

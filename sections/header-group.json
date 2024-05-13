@@ -1,1 +1,93 @@
-{"type":"header","name":"Header group","sections":{"announcement-bar":{"type":"announcement-bar","blocks":{"message-1":{"type":"message","settings":{"text":"Announce something here"}}},"block_order":["message-1"],"settings":{}},"header":{"type":"header","settings":{"logo":"{{ shop.brand.logo }}"}}},"order":["announcement-bar","header"]}
+{
+  "type": "header",
+  "name": "Header group",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "message-1": {
+          "type": "message",
+          "settings": {
+            "text": "TAKE 30% OFF THIS WEEK WITH CODE \"30%OFF\" & GET FREE USA SHIPPING!"
+          }
+        }
+      },
+      "block_order": [
+        "message-1"
+      ],
+      "settings": {
+        "color_scheme": "scheme-3",
+        "enable_sticky": false,
+        "autoplay": true,
+        "cycle_speed": 5,
+        "desktop_font_size": 11,
+        "mobile_font_size": 10
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "mega_menu_3wPJ4V": {
+          "type": "mega_menu",
+          "settings": {
+            "menu_item": "Shop",
+            "images_position": "right",
+            "image_1_heading": "",
+            "image_1_text": "",
+            "image_1_link": "",
+            "image_2_heading": "",
+            "image_2_text": "",
+            "image_2_link": ""
+          }
+        },
+        "mega_menu_jYDw7t": {
+          "type": "mega_menu",
+          "settings": {
+            "menu_item": "Collections",
+            "images_position": "right",
+            "image_1": "shopify:\/\/shop_images\/C259142D-2F2E-4295-ABBF-C21C60ACB352.jpg",
+            "image_1_heading": "Best Sellers",
+            "image_1_text": "See Collection",
+            "image_1_link": "shopify:\/\/collections",
+            "image_2": "shopify:\/\/shop_images\/49770764-3F89-40C9-B67F-FC876D260E02.jpg",
+            "image_2_heading": "Travel Tote Bags",
+            "image_2_text": "See Collection",
+            "image_2_link": "shopify:\/\/collections"
+          }
+        }
+      },
+      "block_order": [
+        "mega_menu_3wPJ4V",
+        "mega_menu_jYDw7t"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "enable_sticky": true,
+        "hide_on_scroll": false,
+        "show_separation_border": true,
+        "reduce_padding": true,
+        "logo": "shopify:\/\/shop_images\/Allshades_Logo_SVG-01-svg.png",
+        "logo_max_width": 280,
+        "logo_mobile_max_width": 100,
+        "menu": "main-menu",
+        "sidebar_menu": "",
+        "menu_open_trigger": "hover",
+        "enable_search": true,
+        "sidebar_color_scheme": "scheme-1",
+        "sidebar_text_font": "heading",
+        "sidebar_show_dividers": true,
+        "layout": "logo_left_navigation_center",
+        "show_icons": false,
+        "show_country_selector": false,
+        "show_country_name": false,
+        "show_country_flag": false,
+        "show_locale_selector": false,
+        "transparent_header_text_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}

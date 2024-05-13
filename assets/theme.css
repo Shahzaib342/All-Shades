@@ -12,7 +12,8 @@ html {
   -moz-tab-size: 4;
   tab-size: 4;
   scroll-padding-top: var(--sticky-area-height);
-  line-height: 1.5;
+  line-height: 1.5; 
+  opacity: 1;
 }
 
 body {
@@ -21,6 +22,7 @@ body {
   letter-spacing: var(--text-letter-spacing);
   margin: 0;
   position: relative;
+  opacity: 2;
 }
 
 hr {
@@ -2822,14 +2824,14 @@ tfoot td {
 }
 
 .color-swatch {
-  --swatch-offset: 2px;
+  --swatch-offset: 4px;
   --swatch-size: 2.125rem;
   --swatch-border-size: 1px;
   --swatch-disabled-strike-color: rgb(var(--border-color));
   width: var(--swatch-size);
   height: var(--swatch-size);
   padding: var(--swatch-offset);
-  border: var(--swatch-border-size) solid transparent;
+  border: var(--swatch-border-size) solid #ccc;
   background: content-box var(--swatch-background) no-repeat center / cover;
   place-items: center;
   display: grid;
@@ -4397,6 +4399,11 @@ tfoot td {
     flex-basis: 14rem;
     max-width: 24rem;
   }
+
+  .footer__block--html {
+    flex-basis: 14rem;
+    max-width: 24rem;
+  }
 }
 
 @media screen and (min-width: 1000px) {
@@ -5690,14 +5697,14 @@ tfoot td {
 
 @media screen and (min-width: 1150px) {
   .product {
-    --product-gap: 5rem;
+    --product-gap: 2rem;
   }
 }
 
 .product-gallery {
   --product-gallery-gap: 1.5rem;
   --product-gallery-thumbnail-list-gap: 1rem .5rem;
-  --product-gallery-thumbnail-size: 3.5rem;
+  --product-gallery-thumbnail-size: 6rem;
   flex-direction: var(--product-gallery-flex-direction, column);
   align-items: start;
   gap: var(--product-gallery-gap) var(--product-gap, 0px);
@@ -5771,10 +5778,17 @@ tfoot td {
 }
 
 .product-gallery__thumbnail {
-  border: 1px solid #0000;
-  padding: 1px;
+  border: 3px solid #fff;
+  padding: 0px;
   transition: border-color .1s;
   position: relative;
+  height: 120px;
+  overflow: hidden;
+  color: #776D62;
+  img{
+    height: 100%;
+    object-fit: cover;
+  }
 }
 
 .product-gallery__thumbnail[aria-current="true"] {
@@ -5813,6 +5827,9 @@ tfoot td {
 .product-info {
   --product-info-gap: 1rem;
   grid-area: product-info;
+  max-width: 400px;
+  margin: auto;
+  margin-top: 0;
 }
 
 .product-info__block-list > :not(:first-child) {
@@ -6030,6 +6047,9 @@ tfoot td {
 
 .product-sticky-bar__info img {
   width: 3.75rem;
+  max-height: 3.75rem;
+  object-fit: cover;
+  object-position: top;
 }
 
 @media screen and (min-width: 700px) {
@@ -7617,4 +7637,70 @@ ul {
   -webkit-box-orient: vertical;
   display: -webkit-box;
   overflow: hidden;
+}
+
+
+
+[data-block-type="description"]{
+  max-height: 300px;
+  overflow: auto;
+  padding-right: 20px;
+  &::-webkit-scrollbar {width: 10px;}
+  /* Track */
+  &::-webkit-scrollbar-track {background: #f1f1f1;}
+  /* Handle */
+  &::-webkit-scrollbar-thumb {background: #000000;} 
+  /* Handle on hover */
+  &::-webkit-scrollbar-thumb:hover {background: #666666;}
+}
+
+.mega-menu__linklist{
+  .h6{
+    font-weight: bold;
+  }
+}
+
+@media only screen and (min-width: 768px){
+  #vstar-reviews:not(.page-width,.wrapper,.site-wrapper), 
+  #vstar-noreviews, #vstar-noreviews:not(.page-width,.wrapper,.site-wrapper){
+    max-width: 100% !important;
+    padding-inline: 20px;
+  }
+}
+
+[value="compact"]{
+  display: none;
+}
+
+.klaviyo-form-style{
+  input{
+    border-color: rgb(var(--border-color)) !important;
+    color: rgb(var(--input-text-color, var(--text-color))) !important;
+    &:focus{
+      border-color: currentColor !important;
+    }
+    &:hover{
+      border-color: currentColor !important;
+    }
+  }
+  button.needsclick{
+    --initial-gradient: linear-gradient(rgb(var(--button-background)), rgb(var(--button-background)));
+    --hover-gradient: linear-gradient(transparent, transparent);
+    --initial-background-position: var(--transform-origin-end);
+    --hover-background-position: var(--transform-origin-start);
+    font: var(--button-font) !important;
+    text-transform: uppercase;
+    color: rgb(var(--button-text-color)) !important;
+    background-color: #0000 !important;
+    background-image: var(--initial-gradient), var(--hover-gradient) !important;
+    background-size: 100% 100%, 0 100% !important;
+    background-position: var(--initial-background-position) !important;
+    background-repeat: no-repeat;
+    min-width: 150px;
+  }
+}
+button.needsclick{
+  padding: 0 30px !important;
+  font: var(--button-font) !important;
+  text-transform: uppercase;
 }

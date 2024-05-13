@@ -1,0 +1,280 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "show_title": true,
+        "page_width": "xs"
+      }
+    },
+    "image_with_text_overlay_zMw3c6": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_eUiCtB": {
+          "type": "heading",
+          "settings": {
+            "text": "{{ page.title }}",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_eiFAyd": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_eUiCtB",
+        "richtext_eiFAyd"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "image_size": "xs",
+        "image": "shopify:\/\/shop_images\/IMG_0083.jpg",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "rich_text_cxnryy": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_EGPWBn": {
+          "type": "subheading",
+          "settings": {
+            "text": "our mission"
+          }
+        },
+        "heading_DC7zAh": {
+          "type": "heading",
+          "settings": {
+            "text": "Mission",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_QrcRCP": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>At AllShades BeYoutiful, our mission is to inspire and empower travelers around the world to embark on their journeys with confidence, comfort, style, and convenience. We believe that every adventure, whether near or far, should be an opportunity for exploration, self-discovery, and meaningful connections, no matter if it’s via car, train, or plane - we want you looking good and feeling good, always.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_EGPWBn",
+        "heading_DC7zAh",
+        "richtext_QrcRCP"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "content_width": "xs",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "blog_posts_EqB89m": {
+      "type": "blog-posts",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "blog": "news",
+        "posts_count": 3,
+        "stack_on_mobile": false,
+        "show_category": true,
+        "show_excerpt": true,
+        "show_read_more": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "button_link": "",
+        "button_text": "View all"
+      }
+    },
+    "multiple_media_with_text_bLFtEN": {
+      "type": "multiple-media-with-text",
+      "blocks": {
+        "image_6pyfYT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/86036923-68FE-4A6B-8A8E-73BAD15C77B0.jpg",
+            "rotation": 0
+          }
+        },
+        "image_jrF9FQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/98A84867-74AA-4829-A30F-E4E0F57497BB.jpg",
+            "rotation": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_6pyfYT",
+        "image_jrF9FQ"
+      ],
+      "settings": {
+        "color_scheme": "scheme-c64239d7-b52b-437b-b1ff-1bb19c331877",
+        "reveal_on_scroll": true,
+        "separate_section_with_border": false,
+        "media_position_desktop": "before_text",
+        "media_position_mobile": "before_text",
+        "media_layout": "overlap",
+        "media_alignment": "center",
+        "media_alignment_offset": 0,
+        "media_mobile_alignment_offset": 0,
+        "text_alignment": "center",
+        "subheading": "Mission Statement",
+        "title": "Our commitment",
+        "content": "<p>Our commitment is to curate and offer a diverse range of high-quality travel products that elevate the travel experience. From versatile organizers that simplify packing to elegant handbags that blend fashion with functionality, from luxurious 100% mulberry silk eye masks that ensure restful journeys to chic cover-ups that suit any outfit, we provide the essentials that<br\/>travelers need (minus the boring, bland designs you see most often).<\/p>",
+        "button_1_text": "",
+        "button_1_link": "",
+        "button_1_style": "solid",
+        "button_2_text": "",
+        "button_2_link": "",
+        "button_2_style": "solid"
+      }
+    },
+    "multiple_media_with_text_6kRzBm": {
+      "type": "multiple-media-with-text",
+      "blocks": {
+        "image_xAncnX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/E7842F12-64D2-4997-967E-B289736CC6E0.jpg",
+            "rotation": 0
+          }
+        },
+        "image_MqaaUr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/28543C66-33B4-4837-930E-1B6120A00AF1.jpg",
+            "rotation": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_xAncnX",
+        "image_MqaaUr"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "reveal_on_scroll": true,
+        "separate_section_with_border": false,
+        "media_position_desktop": "after_text",
+        "media_position_mobile": "before_text",
+        "media_layout": "overlap",
+        "media_alignment": "center",
+        "media_alignment_offset": 0,
+        "media_mobile_alignment_offset": 0,
+        "text_alignment": "center",
+        "subheading": "Mission Statement",
+        "title": "We strive",
+        "content": "<p>We strive to be more than just a marketplace; we aim to be a trusted companion on your travel journey. We understand that travel is not just about<br\/>reaching a destination; it's about savoring the moments in between, cherishing the memories created, and feeling at home in every corner of the world.<\/p>",
+        "button_1_text": "",
+        "button_1_link": "",
+        "button_1_style": "solid",
+        "button_2_text": "",
+        "button_2_link": "",
+        "button_2_style": "solid"
+      }
+    },
+    "multi_column_tppqjP": {
+      "type": "multi-column",
+      "blocks": {
+        "image_with_text_3BPDEM": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "",
+            "heading_tag": "h3",
+            "content": "<p>Ultimately, as a small business, our mission is to be your partner in wanderlust, providing you with the tools and accessories you need to explore the world, create lasting memories, and make every journey a story worth telling.<\/p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_TtG9PV": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "",
+            "heading_tag": "h3",
+            "content": "<p>Join us on this exciting voyage as we redefine travel, one product at a time, and embark on a shared journey towards a world filled with exploration, connection, and unforgettable adventures.<\/p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_3BPDEM",
+        "image_with_text_TtG9PV"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "columns_per_row": 3,
+        "stack_on_mobile": false,
+        "overlap_image": false,
+        "content_alignment": "center",
+        "text_alignment": "center",
+        "spacing": "md",
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
+    },
+    "scrolling_content_rpcPH6": {
+      "type": "scrolling-content",
+      "blocks": {
+        "text_7AzJk9": {
+          "type": "text",
+          "settings": {
+            "text": "Escape the crazy -"
+          }
+        },
+        "text_HxGa4n": {
+          "type": "text",
+          "settings": {
+            "text": "embrace the new you."
+          }
+        }
+      },
+      "block_order": [
+        "text_7AzJk9",
+        "text_HxGa4n"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "scrolling_speed": 0.3,
+        "scroll_direction": "left",
+        "pause_on_hover": true,
+        "text_font": "heading",
+        "text_font_size_mobile": 20,
+        "text_font_size_desktop": 20,
+        "section_vertical_spacing_mobile": 60,
+        "section_vertical_spacing_desktop": 10,
+        "item_horizontal_spacing_mobile": 80,
+        "item_horizontal_spacing_desktop": 10,
+        "background": "",
+        "text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_overlay_zMw3c6",
+    "rich_text_cxnryy",
+    "blog_posts_EqB89m",
+    "multiple_media_with_text_bLFtEN",
+    "multiple_media_with_text_6kRzBm",
+    "multi_column_tppqjP",
+    "scrolling_content_rpcPH6"
+  ]
+}
