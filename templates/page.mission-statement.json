@@ -64,7 +64,7 @@
         "richtext_QrcRCP": {
           "type": "richtext",
           "settings": {
-            "content": "<p>At AllShades BeYoutiful, our mission is to inspire and empower travelers around the world to embark on their journeys with confidence, comfort, style, and convenience. We believe that every adventure, whether near or far, should be an opportunity for exploration, self-discovery, and meaningful connections, no matter if it’s via car, train, or plane - we want you looking good and feeling good, always.<\/p>"
+            "content": "<p>At AllShades BeYoutiful, our mission is to inspire and empower travelers around the world to embark on their journeys with confidence, style, and convenience. We believe that every adventure, whether near or far, should be an opportunity for exploration, self-discovery, and meaningful connections, no matter if it’s via car, train, or plane - we want you looking good and feeling good, always.<\/p>"
           }
         }
       },
@@ -135,7 +135,7 @@
         "text_alignment": "center",
         "subheading": "Mission Statement",
         "title": "Our commitment",
-        "content": "<p>Our commitment is to curate and offer a diverse range of high-quality travel products that elevate the travel experience. From versatile organizers that simplify packing to elegant handbags that blend fashion with functionality, from luxurious 100% mulberry silk eye masks that ensure restful journeys to chic cover-ups that suit any outfit, we provide the essentials that<br\/>travelers need (minus the boring, bland designs you see most often).<\/p>",
+        "content": "<p>Our commitment is to curate and offer a diverse range of high-quality travel products that elevate the travel experience. From versatile organizers that simplify packing to elegant handbags that blend fashion with functionality, from luxurious eye masks that ensure restful journeys to chic cover-ups that suit any outfit, we provide the essentials that travelers need (minus the boring, bland designs you see most often)<\/p>",
         "button_1_text": "",
         "button_1_link": "",
         "button_1_style": "solid",
@@ -179,7 +179,7 @@
         "text_alignment": "center",
         "subheading": "Mission Statement",
         "title": "We strive",
-        "content": "<p>We strive to be more than just a marketplace; we aim to be a trusted companion on your travel journey. We understand that travel is not just about<br\/>reaching a destination; it's about savoring the moments in between, cherishing the memories created, and feeling at home in every corner of the world.<\/p>",
+        "content": "<p>We strive to be more than just a marketplace; we aim to be a trusted companion on your travel journey. We understand that travel is not just about reaching a destination; it's about savoring the moments in between, cherishing the memories created, and feeling at home in every corner of the world.<\/p>",
         "button_1_text": "",
         "button_1_link": "",
         "button_1_style": "solid",
@@ -196,7 +196,7 @@
           "settings": {
             "title": "",
             "heading_tag": "h3",
-            "content": "<p>Ultimately, as a small business, our mission is to be your partner in wanderlust, providing you with the tools and accessories you need to explore the world, create lasting memories, and make every journey a story worth telling.<\/p>",
+            "content": "<p>Ultimately, our mission is to be your partner in wanderlust, providing you with the tools and accessories you need to explore the world, create lasting memories, and make every journey a story worth telling.<\/p>",
             "link_url": "",
             "link_text": ""
           }

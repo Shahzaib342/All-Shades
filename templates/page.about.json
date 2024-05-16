@@ -58,14 +58,14 @@
         "heading_nUDddR": {
           "type": "heading",
           "settings": {
-            "text": "Allshades-BeYOUtiful",
+            "text": "Hey, fellow globetrotters!",
             "heading_tag": "h3"
           }
         },
         "richtext_p4pzdG": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Allshades-BeYOUtiful is an e-commerce store that specializes in travel essentials and accessories. We offer a wide range of products that are both practical and stylish, so you can enjoy your travels without sacrificing your sense of fashion. We believe that everyone should be able to enjoy the beauty of the world, regardless of their budget, and our goal is to make travel more accessible for everyone.<\/p><p>We have since then grown into a successful online business. Our products are shipped all over the world, and we have satisfied customers in every corner of the globe. We are constantly expanding our range of products, so that we can offer our customers the best possible selection.<\/p>"
+            "content": "<p>We're here to tell you the story behind Allshades-BeYOUtiful, and how we’re empowering the next generation of adventure seekers to escape the<br\/>craziness of daily life and fall in love with a new version of themselves.<\/p><p>It all started with a twist of fate. Our founder, let's call her the \"Travel Guru,\" had an unexpected encounter with illness. But you know what they say – when life gives you lemons, you make lemonade. She decided to take her travel dreams to the next level, even if it meant packing a lighter suitcase.<\/p>"
           }
         }
       },
@@ -104,7 +104,7 @@
         "richtext_tcmNKm": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Whether you're going on a quick getaway or a longer vacation, we have everything you need to make your trip more relaxing and enjoyable. So browse our collection today and discover the perfect travel essentials for your next adventure!<\/p><p>Thank you for taking the time to learn more about us. We hope that you will visit our store and browse our products. If you have any questions or suggestions, please don't hesitate to contact us. We would love to hear from you!<\/p>"
+            "content": "<p>So, with unwavering determination, she set out on a mission to simplify travel – to make it less about baggage (literally) and more about embracing the world with open arms. And thus, Allshades-BeYOUtiful was born!<\/p>"
           }
         }
       },
@@ -120,7 +120,114 @@
         "reveal_on_scroll": true,
         "image_position": "start",
         "content_width": "md",
+        "remove_vertical_spacing": true
+      }
+    },
+    "rich_text_NR6XVX": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_xmBFxE": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_zzcBiR": {
+          "type": "heading",
+          "settings": {
+            "text": "Now, let's dive into the juicy details",
+            "heading_tag": "h4"
+          }
+        },
+        "richtext_aUjAaz": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>the 5 main reasons why Allshades-BeYOUtiful is<br\/>your go-to travel companion:<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_xmBFxE",
+        "heading_zzcBiR",
+        "richtext_aUjAaz"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
         "remove_vertical_spacing": false
+      }
+    },
+    "text_with_icons_pFcLeJ": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_xxnPC3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-plane",
+            "icon_width": 56,
+            "mobile_icon_width": 24,
+            "title": "<strong>Traveling with Ease<\/strong>",
+            "content": "<p>We get it; lugging around heavy bags is no one's idea of a good time. Our products are designed to make your travel experience a breeze. We're allabout lightening the load, both literally and figuratively.<\/p>"
+          }
+        },
+        "item_fU3HzU": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-bag-handle",
+            "icon_width": 56,
+            "mobile_icon_width": 24,
+            "title": "<strong>Small Bags, Big Impact<\/strong>",
+            "content": "<p>Our collection features compact bags and totes that punch above their weight when it comes to style and functionality. Because who says small can't be mighty?<\/p>"
+          }
+        },
+        "item_8f7hpW": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-beer",
+            "icon_width": 56,
+            "mobile_icon_width": 24,
+            "title": "<strong>Relax and Unwind<\/strong>",
+            "content": "<p>Neck wraps for relaxation and migraine caps for stressful travel days – we've got you covered. We know that travel isn't always smooth sailing, but with our soothing products, you'll be ready for anything.<\/p>"
+          }
+        },
+        "item_GVEYbV": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "icon_width": 56,
+            "mobile_icon_width": 24,
+            "title": "<strong>Organize Like a Pro<\/strong>",
+            "content": "<p>Cosmetic and toiletry organizers that turn chaotic packing into an organized masterpiece. No more digging through a black hole of beauty products – everything has its place.<\/p>"
+          }
+        },
+        "item_gRRCpe": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-love",
+            "icon_width": 56,
+            "mobile_icon_width": 24,
+            "title": "<strong>Beauty Sleep, Anywhere<\/strong>",
+            "content": "<p>Our silk eye masks are designed to block out pesky light, ensuring you get the beauty sleep you deserve. And speaking of beauty, our silk pillowcases aren't just for show; they protect your skin and hair while you dream of your next adventure.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_xxnPC3",
+        "item_fU3HzU",
+        "item_8f7hpW",
+        "item_GVEYbV",
+        "item_gRRCpe"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "stack_on_mobile": true,
+        "icon_color": "",
+        "text_color": "",
+        "text_alignment": "center"
       }
     },
     "video_JwFeL8": {
@@ -139,11 +246,18 @@
             "text": "Video",
             "heading_tag": "h2"
           }
+        },
+        "richtext_fNqUVm": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Now that you know the heart and soul behind Allshades-BeYOUtiful and our fabulous<br\/>product lineup, we invite you to join us on this travel-inspired journey. We're here to<br\/>simplify travel, so you can focus on creating memories, exploring new cultures, and<br\/>looking darn good while doing it.<\/p><p><br\/>So pack your bags, and let's make the world our playground – one stylish and practical<br\/>adventure at a time. 🌍✈️💄💤<\/p>"
+          }
         }
       },
       "block_order": [
         "play_x4E6gt",
-        "heading_Tx3a96"
+        "heading_Tx3a96",
+        "richtext_fNqUVm"
       ],
       "settings": {
         "autoplay": true,
@@ -151,7 +265,7 @@
         "video_size": "md",
         "video": "shopify:\/\/files\/videos\/V2(3).mp4",
         "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff"
+        "text_color": "#1c1c1c"
       }
     },
     "blog_posts_EqB89m": {
@@ -178,6 +292,8 @@
     "image_with_text_overlay_zMw3c6",
     "image_with_text_74KDA9",
     "image_with_text_ByMD4x",
+    "rich_text_NR6XVX",
+    "text_with_icons_pFcLeJ",
     "video_JwFeL8",
     "blog_posts_EqB89m"
   ]
