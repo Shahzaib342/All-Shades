@@ -97,19 +97,26 @@
             "required": false
           }
         },
-        "text_nqXMUr": {
-          "type": "text",
-          "settings": {
-            "title": "Please tell us why you would like to partner with DIARRABLU",
-            "use_long_text": true,
-            "required": false
-          }
-        },
         "list_AJ48gX": {
           "type": "list",
           "settings": {
             "title": "Purpose",
             "values": "Affiliate partnership,Organic gifting,Event guest list,"
+          }
+        },
+        "list_AjeAQK": {
+          "type": "list",
+          "settings": {
+            "title": "Following count",
+            "values": "1K-10K,10K-50K,50K-500K,500K,1M+"
+          }
+        },
+        "text_nqXMUr": {
+          "type": "text",
+          "settings": {
+            "title": "Please tell us why you would like to partner with AllShades",
+            "use_long_text": true,
+            "required": false
           }
         }
       },
@@ -125,8 +132,9 @@
         "text_p899L9",
         "text_yeNMkL",
         "text_QgCRJT",
-        "text_nqXMUr",
-        "list_AJ48gX"
+        "list_AJ48gX",
+        "list_AjeAQK",
+        "text_nqXMUr"
       ],
       "settings": {
         "color_scheme": "",
