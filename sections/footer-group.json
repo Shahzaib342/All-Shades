@@ -67,8 +67,8 @@
         "text_YPNTmD": {
           "type": "text",
           "settings": {
-            "title": "<strong>About Us<\/strong>",
-            "content": "<p>Allshades-BeYOUtiful is an e-commerce store that specializes in travel essentials and accessories. <\/p>",
+            "title": "<strong>Our Story<\/strong>",
+            "content": "<p>We're here to tell you the story behind Allshades-BeYOUtiful, and how we’re empowering the next generation of adventure seekers to escape the craziness of daily life and fall in love with a new version of themselves.<\/p>",
             "enable_follow_on_shop": true
           }
         },
