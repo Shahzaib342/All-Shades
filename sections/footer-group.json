@@ -11,8 +11,8 @@
             "icon": "picto-award-gift",
             "icon_width": 56,
             "mobile_icon_width": 32,
-            "title": "<strong>Free delivery worldwide<\/strong>",
-            "content": "<p>Short content about your store<\/p>"
+            "title": "<strong>Free delivery across USA<\/strong>",
+            "content": "<p>Free Delivery Coast-to-Coast!<\/p>"
           }
         },
         "icon-2": {
@@ -22,7 +22,7 @@
             "icon_width": 56,
             "mobile_icon_width": 32,
             "title": "<strong>Satisfied or refunded<\/strong>",
-            "content": "<p>Short content about your store<\/p>"
+            "content": "<p>Love It or Leave It<\/p>"
           }
         },
         "icon-3": {
@@ -32,7 +32,7 @@
             "icon_width": 56,
             "mobile_icon_width": 32,
             "title": "<strong>Top-notch support<\/strong>",
-            "content": "<p>Short content about your store<\/p>"
+            "content": "<p>Dedicated to Your Success<\/p>"
           }
         },
         "icon-4": {
@@ -42,7 +42,7 @@
             "icon_width": 56,
             "mobile_icon_width": 32,
             "title": "<strong>Secure payments<\/strong>",
-            "content": "<p>Short content about your store<\/p>"
+            "content": "<p>Seamless Shopping, Secure Payments<\/p>"
           }
         }
       },
