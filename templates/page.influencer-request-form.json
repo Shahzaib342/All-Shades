@@ -52,6 +52,13 @@
             "required": false
           }
         },
+        "list_zp4mxU": {
+          "type": "list",
+          "settings": {
+            "title": "Industry",
+            "values": "Fashion,Travel,Wellness,Lifestyle,Sustainability"
+          }
+        },
         "dropdown_e3rAxa": {
           "type": "dropdown",
           "settings": {
@@ -85,15 +92,29 @@
         "text_QgCRJT": {
           "type": "text",
           "settings": {
-            "title": "Requested product 1",
+            "title": "Requested product 3",
             "use_long_text": false,
             "required": false
+          }
+        },
+        "list_AJ48gX": {
+          "type": "list",
+          "settings": {
+            "title": "Purpose",
+            "values": "Affiliate partnership,Organic gifting,Event guest list,"
+          }
+        },
+        "list_AjeAQK": {
+          "type": "list",
+          "settings": {
+            "title": "Following count",
+            "values": "1K-10K,10K-50K,50K-500K,500K,1M+"
           }
         },
         "text_nqXMUr": {
           "type": "text",
           "settings": {
-            "title": "Please tell us why you would like to partner with DIARRABLU",
+            "title": "Please tell us why you would like to partner with AllShades",
             "use_long_text": true,
             "required": false
           }
@@ -105,11 +126,14 @@
         "text_HdXUrm",
         "text_gABxtx",
         "text_ieacfG",
+        "list_zp4mxU",
         "dropdown_e3rAxa",
         "dropdown_ngUeHp",
         "text_p899L9",
         "text_yeNMkL",
         "text_QgCRJT",
+        "list_AJ48gX",
+        "list_AjeAQK",
         "text_nqXMUr"
       ],
       "settings": {
