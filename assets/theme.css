@@ -2862,7 +2862,7 @@ tfoot td {
   --swatch-disabled-strike-color: rgb(var(--border-color));
   width: var(--swatch-size);
   height: var(--swatch-size);
-  border-radius: min(4px, var(--input-border-radius));
+  border-radius: 100px;
   border-width: 1px;
   display: block;
   position: relative;
@@ -2882,6 +2882,7 @@ tfoot td {
 
 .thumbnail-swatch > img {
   border-radius: inherit;
+  object-fit: cover;
   height: 100%;
 }
 
@@ -2891,7 +2892,7 @@ tfoot td {
 
 @media screen and (min-width: 700px) {
   .thumbnail-swatch {
-    --swatch-size: 4.25rem;
+    --swatch-size: 2.25rem;
   }
 }
 
