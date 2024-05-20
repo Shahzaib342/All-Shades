@@ -585,6 +585,12 @@
           "name_label": "Name",
           "values": "Values",
           "values_info": "Separate each value by a comma."
+        },
+        "list": {
+          "name": "List",
+          "name_label": "Name",
+          "values": "Values",
+          "values_info": "Separate each value by a comma."
         }
       },
       "presets": {

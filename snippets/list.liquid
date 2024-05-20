@@ -1,0 +1,18 @@
+{%- comment -%}
+----------------------------------------------------------------------------------------------------------------------
+List COMPONENT
+----------------------------------------------------------------------------------------------------------------------
+{%- endcomment -%}
+
+{%- if label != blank and show_label_as_block -%}
+    <label for="{{ id }}">{{ label }}</label>
+{%- endif -%}
+<div>
+{%- for value in option_values -%}
+    <input type="radio" id="{{ id }}" name="{{ name }}" value="{{ value | strip | escape }}">
+    <label for="{{ name }}">{{ value | strip | escape }}</label><br>
+{%- endfor -%}
+    {%- if label != blank and show_label_as_block != true -%}
+        <label for="{{ id }}" class="floating-label text-xs">{{ label }}</label>
+    {%- endif -%}
+</div>
