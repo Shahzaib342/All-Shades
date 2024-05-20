@@ -8,7 +8,7 @@
         "message-1": {
           "type": "message",
           "settings": {
-            "text": "Join our newsletter and get 20% off of your first order"
+            "text": "Join our <a href=\"#klaviyo-footer-form\" title=\"#klaviyo-footer-form\">newsletter<\/a> and get 20% off of your first order"
           }
         }
       },
