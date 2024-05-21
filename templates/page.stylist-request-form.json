@@ -11,6 +11,28 @@
     },
     "stylist-request-form": {
       "type": "stylist-request-form",
+      "blocks": {
+        "text_9VnbTt": {
+          "type": "text",
+          "settings": {
+            "title": "City & Country",
+            "use_long_text": false,
+            "required": true
+          }
+        },
+        "text_RjzUEL": {
+          "type": "text",
+          "settings": {
+            "title": "Instagram",
+            "use_long_text": false,
+            "required": true
+          }
+        }
+      },
+      "block_order": [
+        "text_9VnbTt",
+        "text_RjzUEL"
+      ],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
