@@ -127,6 +127,37 @@
             "title": "US Dress Size",
             "values": "XS (US 0-2),S (US 4-6),M (US 8-10),L (US 12-14),1XL (US 16-18),2XL (US 20-22),3XL (US 24-26)"
           }
+        },
+        "dropdown_x9NVD9": {
+          "type": "dropdown",
+          "settings": {
+            "title": "Height",
+            "values": "4'8\" | 143 cm4'9\" | 145 cm4'10\" | 147 cm4'11\" | 150 cm5'0\" | 153 cm5'1\" | 155 cm5'2\" | 157 cm5'3\" | 160 cm5'4\" | 163 cm5'5\" | 165 cm5'6\" | 168 cm5'7\" | 170 cm5'8\" | 173 cm5'9\"| 175 cm5'10\" | 178 cm5'11\" | 180 cm6'0\" | 183 cm6'1\" | 185 cm6'2\" | 188 cm6'3\" | 190 cm"
+          }
+        },
+        "text_jVNMNp": {
+          "type": "text",
+          "settings": {
+            "title": "Requested product 1",
+            "use_long_text": false,
+            "required": false
+          }
+        },
+        "text_GKPMWE": {
+          "type": "text",
+          "settings": {
+            "title": "Requested product 2",
+            "use_long_text": false,
+            "required": false
+          }
+        },
+        "text_Y7Hze7": {
+          "type": "text",
+          "settings": {
+            "title": "Requested product 3",
+            "use_long_text": false,
+            "required": false
+          }
         }
       },
       "block_order": [
@@ -144,7 +175,11 @@
         "text_DPV4D6",
         "text_A3wbwm",
         "text_7aD6nF",
-        "dropdown_kWGzkQ"
+        "dropdown_kWGzkQ",
+        "dropdown_x9NVD9",
+        "text_jVNMNp",
+        "text_GKPMWE",
+        "text_Y7Hze7"
       ],
       "settings": {
         "color_scheme": "",
