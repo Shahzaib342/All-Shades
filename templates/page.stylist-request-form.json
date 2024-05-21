@@ -42,13 +42,22 @@
             "use_long_text": false,
             "required": false
           }
+        },
+        "text_qY3rnN": {
+          "type": "text",
+          "settings": {
+            "title": "Talent social handles",
+            "use_long_text": false,
+            "required": false
+          }
         }
       },
       "block_order": [
         "text_9VnbTt",
         "text_RjzUEL",
         "list_Nk9LiR",
-        "text_BkXLGX"
+        "text_BkXLGX",
+        "text_qY3rnN"
       ],
       "settings": {
         "color_scheme": "",
