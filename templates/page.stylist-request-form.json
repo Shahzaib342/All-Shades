@@ -2,13 +2,22 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "disabled":true,
+      "disabled": true,
       "settings": {
+        "color_scheme": "",
+        "show_title": true,
+        "page_width": "xs"
       }
     },
     "stylist-request-form": {
       "type": "stylist-request-form",
-      "settings":{}
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "subheading": "",
+        "title": "Stylist request form",
+        "content": "<p>We welcome partnerships with stylists and publications to compliment your talent. If you're looking to partner with us please complete the form below and we'll be in touch at our earliest convenience!<\/p>"
+      }
     }
   },
   "order": [
