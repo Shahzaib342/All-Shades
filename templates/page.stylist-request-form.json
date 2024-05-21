@@ -17,7 +17,8 @@
           "settings": {
             "title": "City & Country",
             "use_long_text": false,
-            "required": true
+            "required": true,
+            "hide": false
           }
         },
         "text_RjzUEL": {
@@ -25,7 +26,8 @@
           "settings": {
             "title": "Instagram",
             "use_long_text": false,
-            "required": true
+            "required": true,
+            "hide": false
           }
         },
         "list_Nk9LiR": {
@@ -35,12 +37,22 @@
             "values": "Event pull request,Organic gifting,Publication shoot,Editorial shoot,Other"
           }
         },
+        "text_BkXxKa": {
+          "type": "text",
+          "settings": {
+            "title": "EVENT PULL REQUEST",
+            "use_long_text": false,
+            "required": false,
+            "hide": true
+          }
+        },
         "text_BkXLGX": {
           "type": "text",
           "settings": {
             "title": "Talent name",
             "use_long_text": false,
-            "required": false
+            "required": false,
+            "hide": false
           }
         },
         "text_qY3rnN": {
@@ -48,7 +60,8 @@
           "settings": {
             "title": "Talent social handles",
             "use_long_text": false,
-            "required": false
+            "required": false,
+            "hide": false
           }
         },
         "text_HyFBqT": {
@@ -56,7 +69,8 @@
           "settings": {
             "title": "Name\/link of the event",
             "use_long_text": false,
-            "required": false
+            "required": false,
+            "hide": false
           }
         },
         "text_YtrRVR": {
@@ -64,7 +78,8 @@
           "settings": {
             "title": "Date needed",
             "use_long_text": false,
-            "required": false
+            "required": false,
+            "hide": false
           }
         },
         "dropdown_zJ88nY": {
@@ -86,7 +101,8 @@
           "settings": {
             "title": "Requested product 1",
             "use_long_text": false,
-            "required": false
+            "required": false,
+            "hide": false
           }
         },
         "text_6HfPG8": {
@@ -94,7 +110,8 @@
           "settings": {
             "title": "Requested product 2",
             "use_long_text": false,
-            "required": false
+            "required": false,
+            "hide": false
           }
         },
         "text_DPV4D6": {
@@ -102,7 +119,17 @@
           "settings": {
             "title": "Requested product 3",
             "use_long_text": false,
-            "required": false
+            "required": false,
+            "hide": false
+          }
+        },
+        "text_wfxRwB": {
+          "type": "text",
+          "settings": {
+            "title": "ORGANIC GIFTING",
+            "use_long_text": false,
+            "required": false,
+            "hide": true
           }
         },
         "text_A3wbwm": {
@@ -110,7 +137,8 @@
           "settings": {
             "title": "Talent name",
             "use_long_text": false,
-            "required": false
+            "required": false,
+            "hide": false
           }
         },
         "text_7aD6nF": {
@@ -118,7 +146,8 @@
           "settings": {
             "title": "Talent social handles",
             "use_long_text": false,
-            "required": false
+            "required": false,
+            "hide": false
           }
         },
         "dropdown_kWGzkQ": {
@@ -140,7 +169,8 @@
           "settings": {
             "title": "Requested product 1",
             "use_long_text": false,
-            "required": false
+            "required": false,
+            "hide": false
           }
         },
         "text_GKPMWE": {
@@ -148,7 +178,8 @@
           "settings": {
             "title": "Requested product 2",
             "use_long_text": false,
-            "required": false
+            "required": false,
+            "hide": false
           }
         },
         "text_Y7Hze7": {
@@ -156,7 +187,8 @@
           "settings": {
             "title": "Requested product 3",
             "use_long_text": false,
-            "required": false
+            "required": false,
+            "hide": false
           }
         }
       },
@@ -164,6 +196,7 @@
         "text_9VnbTt",
         "text_RjzUEL",
         "list_Nk9LiR",
+        "text_BkXxKa",
         "text_BkXLGX",
         "text_qY3rnN",
         "text_HyFBqT",
@@ -173,6 +206,7 @@
         "text_PnmraV",
         "text_6HfPG8",
         "text_DPV4D6",
+        "text_wfxRwB",
         "text_A3wbwm",
         "text_7aD6nF",
         "dropdown_kWGzkQ",
