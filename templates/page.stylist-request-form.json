@@ -34,12 +34,21 @@
             "title": "Purpose",
             "values": "Event pull request,Organic gifting,Publication shoot,Editorial shoot,Other"
           }
+        },
+        "text_BkXLGX": {
+          "type": "text",
+          "settings": {
+            "title": "Talent name",
+            "use_long_text": false,
+            "required": false
+          }
         }
       },
       "block_order": [
         "text_9VnbTt",
         "text_RjzUEL",
-        "list_Nk9LiR"
+        "list_Nk9LiR",
+        "text_BkXLGX"
       ],
       "settings": {
         "color_scheme": "",
