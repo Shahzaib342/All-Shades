@@ -578,7 +578,8 @@
           "name": "Text field",
           "name_label": "Name",
           "use_long_text": "Use long text",
-          "required": "Required"
+          "required": "Required",
+          "hide": "Hide"
         },
         "dropdown": {
           "name": "Dropdown",
