@@ -80,6 +80,53 @@
             "title": "Height",
             "values": "4'8\" | 143 cm,4'9\" | 145 cm,4'10\" | 147 cm,4'11\" | 150 cm,5'0\" | 153 cm,5'1\" | 155 cm,5'2\" | 157 cm,5'3\" | 160 cm,5'4\" | 163 cm,5'5\" | 165 cm,5'6\" | 168 cm,5'7\" | 170 cm,5'8\" | 173 cm,5'9\"| 175 cm,5'10\" | 178 cm,5'11\" | 180 cm,6'0\" | 183 cm,6'1\" | 185 cm,6'2\" | 188 cm,6'3\" | 190 cm"
           }
+        },
+        "text_PnmraV": {
+          "type": "text",
+          "settings": {
+            "title": "Requested product 1",
+            "use_long_text": false,
+            "required": false
+          }
+        },
+        "text_6HfPG8": {
+          "type": "text",
+          "settings": {
+            "title": "Requested product 2",
+            "use_long_text": false,
+            "required": false
+          }
+        },
+        "text_DPV4D6": {
+          "type": "text",
+          "settings": {
+            "title": "Requested product 3",
+            "use_long_text": false,
+            "required": false
+          }
+        },
+        "text_A3wbwm": {
+          "type": "text",
+          "settings": {
+            "title": "Talent name",
+            "use_long_text": false,
+            "required": false
+          }
+        },
+        "text_7aD6nF": {
+          "type": "text",
+          "settings": {
+            "title": "Talent social handles",
+            "use_long_text": false,
+            "required": false
+          }
+        },
+        "dropdown_kWGzkQ": {
+          "type": "dropdown",
+          "settings": {
+            "title": "US Dress Size",
+            "values": "XS (US 0-2),S (US 4-6),M (US 8-10),L (US 12-14),1XL (US 16-18),2XL (US 20-22),3XL (US 24-26)"
+          }
         }
       },
       "block_order": [
@@ -91,7 +138,13 @@
         "text_HyFBqT",
         "text_YtrRVR",
         "dropdown_zJ88nY",
-        "dropdown_yxhEgd"
+        "dropdown_yxhEgd",
+        "text_PnmraV",
+        "text_6HfPG8",
+        "text_DPV4D6",
+        "text_A3wbwm",
+        "text_7aD6nF",
+        "dropdown_kWGzkQ"
       ],
       "settings": {
         "color_scheme": "",
