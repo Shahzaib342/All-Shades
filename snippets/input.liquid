@@ -55,12 +55,12 @@ Supported variables
 {%- else -%}
   <div class="form-control" {{ block.shopify_attributes }}>
     {%- if label != blank and show_label_as_block -%}
-      <label for="{{ id }}">{{ label }}</label>
+      <label for="{{ id }}" id="hide-{{ hide_input }}">{{ label }}</label>
     {%- endif -%}
 
-    {%- if multiline != blank -%}
+    {%- if multiline != blank and hide_input == false or hide_input == blank -%}
       <textarea id="{{ id }}" class="textarea" is="resizable-textarea" name="{{ name }}" {% unless show_label_as_block %}placeholder="{{ label | escape }}"{% endunless %} rows="{{ multiline }}" {{ optional_attributes }}>{{- value -}}</textarea>
-    {%- else -%}
+    {%- elsif hide_input == false or hide_input == blank -%}
       <input id="{{ id }}" class="input" type="{{ type | default: 'text' }}" {% if type == 'email' or type == 'tel' %}dir="ltr"{% endif %} name="{{ name }}" {% unless show_label_as_block %}placeholder="{{ label | escape }}"{% endunless %} {{ optional_attributes }}>
     {%- endif -%}
 
