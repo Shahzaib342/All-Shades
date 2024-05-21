@@ -66,6 +66,13 @@
             "use_long_text": false,
             "required": false
           }
+        },
+        "dropdown_zJ88nY": {
+          "type": "dropdown",
+          "settings": {
+            "title": "US Dress Size",
+            "values": "XS (US 0-2),S (US 4-6),M (US 8-10),L (US 12-14),1XL (US 16-18),2XL (US 20-22),3XL (US 24-26)"
+          }
         }
       },
       "block_order": [
@@ -75,7 +82,8 @@
         "text_BkXLGX",
         "text_qY3rnN",
         "text_HyFBqT",
-        "text_YtrRVR"
+        "text_YtrRVR",
+        "dropdown_zJ88nY"
       ],
       "settings": {
         "color_scheme": "",
