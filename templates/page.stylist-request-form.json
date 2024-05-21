@@ -50,6 +50,22 @@
             "use_long_text": false,
             "required": false
           }
+        },
+        "text_HyFBqT": {
+          "type": "text",
+          "settings": {
+            "title": "Name\/link of the event",
+            "use_long_text": false,
+            "required": false
+          }
+        },
+        "text_YtrRVR": {
+          "type": "text",
+          "settings": {
+            "title": "Date needed",
+            "use_long_text": false,
+            "required": false
+          }
         }
       },
       "block_order": [
@@ -57,7 +73,9 @@
         "text_RjzUEL",
         "list_Nk9LiR",
         "text_BkXLGX",
-        "text_qY3rnN"
+        "text_qY3rnN",
+        "text_HyFBqT",
+        "text_YtrRVR"
       ],
       "settings": {
         "color_scheme": "",
