@@ -27,11 +27,19 @@
             "use_long_text": false,
             "required": true
           }
+        },
+        "list_Nk9LiR": {
+          "type": "list",
+          "settings": {
+            "title": "Purpose",
+            "values": "Event pull request,Organic gifting,Publication shoot,Editorial shoot,Other"
+          }
         }
       },
       "block_order": [
         "text_9VnbTt",
-        "text_RjzUEL"
+        "text_RjzUEL",
+        "list_Nk9LiR"
       ],
       "settings": {
         "color_scheme": "",
