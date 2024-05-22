@@ -60,7 +60,63 @@
           "type": "question",
           "settings": {
             "question": "When will I receive my order?",
-            "answer": "<p>We offer free standard shipping, and expedited shipping. Please remember that your order will take time to process before it ships. Even if you select expedited or express shipping, your order will take a few days to be processed through our system:<\/p><p>Free Standard shipping: Delivery time: 4-6 business day<\/p><p>Expedited shipping:Delivery time: 3 business days<\/p><p>Express shipping:Delivery time: 1-2 business days<\/p><p><\/p>"
+            "answer": "<p>We offer free standard shipping, and expedited shipping. Please remember that your order will take time to process before it ships. Even if you select expedited or express shipping, your order will take a few days to be processed through our system:<\/p><p><strong>Free Standard shipping: <\/strong>Delivery time: 4-6 business day<\/p><p><strong>Expedited shipping:<\/strong> Delivery time: 3 business days<\/p><p><strong>Express shipping:<\/strong> Delivery time: 1-2 business days<\/p><p><\/p>"
+          }
+        },
+        "question_iWYFNb": {
+          "type": "question",
+          "settings": {
+            "question": "When will my pre-order ship?",
+            "answer": "<p>If you ordered an item that has an estimated shipping date set in the future, you have pre-ordered that item. It will ship within 7-9 business days of the date indicated on the website at the time of purchase. You will receive order confirmation and shipping notification emails, as well as email updates should any other circumstances arise.<\/p>"
+          }
+        },
+        "question_j6iyPa": {
+          "type": "question",
+          "settings": {
+            "question": "Do you ship to P.O. Boxes?",
+            "answer": "<p>Unfortunately, we cannot ship to P.O. Boxes or A.P.O addresses at this time. If you don’t have a residential address, please reach out to our team at <a href=\"mailto:allshadesbeyou@gmail.com\" title=\"mailto:allshadesbeyou@gmail.com\">allshadesbeyou@gmail.com<\/a> before placing your order, and we will do our best to assist you!<\/p>"
+          }
+        },
+        "question_HPTwpe": {
+          "type": "question",
+          "settings": {
+            "question": "What is my order status?",
+            "answer": "<p>We will email you at every step of the process, from purchase to post-delivery. You will receive an email confirmation of your order, a notification when your order is being prepared for shipping, a notification with tracking information when your order ships, and a check-in email after your purchase has been delivered to ensure you are happy with your AllShades BeYOUtiful pieces. If you have any questions in the meantime, please feel free to contact us at <a href=\"mailto:allshadesbeyou@gmail.com\" title=\"mailto:allshadesbeyou@gmail.com\">allshadesbeyou@gmail.com<\/a><\/p>"
+          }
+        },
+        "question_pzA8DN": {
+          "type": "question",
+          "settings": {
+            "question": "Can I cancel my order?",
+            "answer": "<p>Your purchase begins its journey to you as soon as you complete the checkout process. We unfortunately do not have a cancellation window. Once an order has begun processing, it cannot be altered.<\/p><p>If you wish to make changes to your order, please contact us via email at <a href=\"mailto:allshadesbeyou@gmail.com\" title=\"mailto:allshadesbeyou@gmail.com\">allshadesbeyou@gmail.com<\/a>. Our team will do our best to accommodate your request.<\/p>"
+          }
+        },
+        "question_zMEHHj": {
+          "type": "question",
+          "settings": {
+            "question": "What is your return policy for all other items?",
+            "answer": "<p>For bags, apparel, and accessories, you may initiate a return within 30 days of the delivery of your item. Items eligible for return must be in brand new, unused condition, with all original packaging intact. The shipping cost of your return will be deducted from your total refund.<\/p>"
+          }
+        },
+        "question_X4XwVq": {
+          "type": "question",
+          "settings": {
+            "question": "What is your exchange policy?",
+            "answer": "<p>If you wish to exchange an item, you will need to initiate a return for your original purchase, and make a separate purchase for the item you wish to receive instead. If you have any questions, please contact <a href=\"mailto:allshadesbeyou@gmail.com\" title=\"mailto:allshadesbeyou@gmail.com\">allshadesbeyou@gmail.com<\/a> for assistance.<\/p>"
+          }
+        },
+        "question_79LLzR": {
+          "type": "question",
+          "settings": {
+            "question": "How does your sizing work?",
+            "answer": "<p>For clothing, our design philosophy is centred around flexible and flowy cuts and our sizes range from XS to 2XL. If you are between sizes we suggest ordering a size up. If your size is outside of the sizes we offer, you can email us at <a href=\"mailto:allsadesbeyou@gmail.com\" title=\"mailto:allsadesbeyou@gmail.com\">allsadesbeyou@gmail.com<\/a> and we can let you know if there is a possibility to custom fit your order to your measurements.<\/p>"
+          }
+        },
+        "question_6NnC9m": {
+          "type": "question",
+          "settings": {
+            "question": "Where can I find your privacy policy?",
+            "answer": "<p>You can find it here <a href=\"\/policies\/privacy-policy\" title=\"Privacy Policy\">Privacy Policy<\/a><\/p>"
           }
         }
       },
@@ -72,7 +128,15 @@
         "question_FCfHtc",
         "question_Akc6dB",
         "question_9m6EDi",
-        "question_MMqYLK"
+        "question_MMqYLK",
+        "question_iWYFNb",
+        "question_j6iyPa",
+        "question_HPTwpe",
+        "question_pzA8DN",
+        "question_zMEHHj",
+        "question_X4XwVq",
+        "question_79LLzR",
+        "question_6NnC9m"
       ],
       "settings": {
         "color_scheme": "",
