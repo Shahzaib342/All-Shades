@@ -7641,7 +7641,10 @@ ul {
   overflow: hidden;
 }
 
-
+label#hide-true {
+  font-size: 20px;
+  font-weight: 700;
+}
 
 [data-block-type="description"]{
   max-height: 300px;
