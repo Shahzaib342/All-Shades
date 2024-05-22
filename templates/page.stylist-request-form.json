@@ -16,6 +16,7 @@
           "type": "text",
           "settings": {
             "title": "City & Country",
+            "custom_field_name": "",
             "use_long_text": false,
             "required": true,
             "hide": false
@@ -25,6 +26,7 @@
           "type": "text",
           "settings": {
             "title": "Instagram",
+            "custom_field_name": "",
             "use_long_text": false,
             "required": true,
             "hide": false
@@ -34,6 +36,7 @@
           "type": "list",
           "settings": {
             "title": "Purpose",
+            "custom_field_name": "",
             "values": "Event pull request,Organic gifting,Publication shoot,Editorial shoot,Other"
           }
         },
@@ -41,6 +44,7 @@
           "type": "text",
           "settings": {
             "title": "EVENT PULL REQUEST",
+            "custom_field_name": "",
             "use_long_text": false,
             "required": false,
             "hide": true
@@ -50,6 +54,7 @@
           "type": "text",
           "settings": {
             "title": "Talent name",
+            "custom_field_name": "",
             "use_long_text": false,
             "required": false,
             "hide": false
@@ -59,6 +64,7 @@
           "type": "text",
           "settings": {
             "title": "Talent social handles",
+            "custom_field_name": "",
             "use_long_text": false,
             "required": false,
             "hide": false
@@ -68,6 +74,7 @@
           "type": "text",
           "settings": {
             "title": "Name\/link of the event",
+            "custom_field_name": "",
             "use_long_text": false,
             "required": false,
             "hide": false
@@ -77,6 +84,7 @@
           "type": "text",
           "settings": {
             "title": "Date needed",
+            "custom_field_name": "",
             "use_long_text": false,
             "required": false,
             "hide": false
@@ -86,6 +94,7 @@
           "type": "dropdown",
           "settings": {
             "title": "US Dress Size",
+            "custom_field_name": "",
             "values": "XS (US 0-2),S (US 4-6),M (US 8-10),L (US 12-14),1XL (US 16-18),2XL (US 20-22),3XL (US 24-26)"
           }
         },
@@ -93,6 +102,7 @@
           "type": "dropdown",
           "settings": {
             "title": "Height",
+            "custom_field_name": "",
             "values": "4'8\" | 143 cm,4'9\" | 145 cm,4'10\" | 147 cm,4'11\" | 150 cm,5'0\" | 153 cm,5'1\" | 155 cm,5'2\" | 157 cm,5'3\" | 160 cm,5'4\" | 163 cm,5'5\" | 165 cm,5'6\" | 168 cm,5'7\" | 170 cm,5'8\" | 173 cm,5'9\"| 175 cm,5'10\" | 178 cm,5'11\" | 180 cm,6'0\" | 183 cm,6'1\" | 185 cm,6'2\" | 188 cm,6'3\" | 190 cm"
           }
         },
@@ -100,6 +110,7 @@
           "type": "text",
           "settings": {
             "title": "Requested product 1",
+            "custom_field_name": "",
             "use_long_text": false,
             "required": false,
             "hide": false
@@ -109,6 +120,7 @@
           "type": "text",
           "settings": {
             "title": "Requested product 2",
+            "custom_field_name": "",
             "use_long_text": false,
             "required": false,
             "hide": false
@@ -118,6 +130,7 @@
           "type": "text",
           "settings": {
             "title": "Requested product 3",
+            "custom_field_name": "",
             "use_long_text": false,
             "required": false,
             "hide": false
@@ -127,6 +140,7 @@
           "type": "text",
           "settings": {
             "title": "ORGANIC GIFTING",
+            "custom_field_name": "",
             "use_long_text": false,
             "required": false,
             "hide": true
@@ -136,6 +150,7 @@
           "type": "text",
           "settings": {
             "title": "Talent name",
+            "custom_field_name": "OG Talent name",
             "use_long_text": false,
             "required": false,
             "hide": false
@@ -145,6 +160,7 @@
           "type": "text",
           "settings": {
             "title": "Talent social handles",
+            "custom_field_name": "OG Talent social handles",
             "use_long_text": false,
             "required": false,
             "hide": false
@@ -154,6 +170,7 @@
           "type": "dropdown",
           "settings": {
             "title": "US Dress Size",
+            "custom_field_name": "OG US Dress Size",
             "values": "XS (US 0-2),S (US 4-6),M (US 8-10),L (US 12-14),1XL (US 16-18),2XL (US 20-22),3XL (US 24-26)"
           }
         },
@@ -161,6 +178,7 @@
           "type": "dropdown",
           "settings": {
             "title": "Height",
+            "custom_field_name": "OG Height",
             "values": "4'8\" | 143 cm,4'9\" | 145 cm,4'10\" | 147 cm,4'11\" | 150 cm,5'0\" | 153 cm,5'1\" | 155 cm,5'2\" | 157 cm,5'3\" | 160 cm,5'4\" | 163 cm,5'5\" | 165 cm,5'6\" | 168 cm,5'7\" | 170 cm,5'8\" | 173 cm,5'9\"| 175 cm,5'10\" | 178 cm,5'11\" | 180 cm,6'0\" | 183 cm,6'1\" | 185 cm,6'2\" | 188 cm,6'3\" | 190 cm"
           }
         },
@@ -168,6 +186,7 @@
           "type": "text",
           "settings": {
             "title": "Requested product 1",
+            "custom_field_name": "OG Requested product 1",
             "use_long_text": false,
             "required": false,
             "hide": false
@@ -177,6 +196,7 @@
           "type": "text",
           "settings": {
             "title": "Requested product 2",
+            "custom_field_name": "OG Requested product 2",
             "use_long_text": false,
             "required": false,
             "hide": false
@@ -186,6 +206,7 @@
           "type": "text",
           "settings": {
             "title": "Requested product 3",
+            "custom_field_name": "OG Requested product 3",
             "use_long_text": false,
             "required": false,
             "hide": false
