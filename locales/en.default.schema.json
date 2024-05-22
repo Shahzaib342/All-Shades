@@ -576,7 +576,8 @@
       "blocks": {
         "text": {
           "name": "Text field",
-          "name_label": "Name",
+          "name_label": "Label",
+          "custom_field_name": "Name",
           "use_long_text": "Use long text",
           "required": "Required",
           "hide": "Hide"

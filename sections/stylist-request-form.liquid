@@ -32,7 +32,11 @@
                             {%- capture field_title -%}Custom field {% increment custom_field %}{%- endcapture -%}
                         {%- endif -%}
 
+                    {% if block.settings.custom_field_name == blank %}
                         {%- capture name -%}contact[{{ field_title | escape }}]{%- endcapture -%}
+                    {% else %}
+                        {%- capture name -%}contact[{{ block.settings.custom_field_name | escape }}]{%- endcapture -%}
+                    {% endif %}
 
                         {%- if block.type == 'text' -%}
                             {%- if block.settings.use_long_text -%}
@@ -107,6 +111,11 @@
 "default": "Custom field"
 },
 {
+"type": "text",
+"id": "custom_field_name",
+"label": "t:sections.contact.blocks.text.custom_field_name"
+},
+{
 "type": "checkbox",
 "id": "use_long_text",
 "label": "t:sections.contact.blocks.text.use_long_text",
@@ -138,6 +147,11 @@
 },
 {
 "type": "text",
+"id": "custom_field_name",
+"label": "t:sections.contact.blocks.text.custom_field_name"
+},
+{
+"type": "text",
 "id": "values",
 "label": "t:sections.contact.blocks.dropdown.values",
 "info": "t:sections.contact.blocks.dropdown.values_info",
@@ -154,6 +168,11 @@
 "id": "title",
 "label": "t:sections.contact.blocks.list.name_label",
 "default": "Custom field"
+},
+{
+"type": "text",
+"id": "custom_field_name",
+"label": "t:sections.contact.blocks.text.custom_field_name"
 },
 {
 "type": "text",
