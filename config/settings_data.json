@@ -25,7 +25,7 @@
     "show_vendor": false,
     "product_title_max_lines": 2,
     "product_card_text_font": "heading",
-    "product_color_display": "swatch",
+    "product_color_display": "hide",
     "show_product_rating": false,
     "cart_icon": "shopping_bag_sharp",
     "cart_show_free_shipping_bar": false,
@@ -35,7 +35,9 @@
     "social_instagram": "https:\/\/www.instagram.com\/allshades_beyoutiful\/",
     "social_tiktok": "https:\/\/tiktok.com\/@allshades_beyoutiful?lang=en",
     "social_linkedin": "",
-    "content_for_index": [],
+    "content_for_index": [
+
+    ],
     "blocks": {
       "1143683040400472741": {
         "type": "shopify:\/\/apps\/trustoo-io-product-reviews\/blocks\/trustoo-review-switch\/c8f15077-6475-4e86-ad06-b66038d5ba2c",

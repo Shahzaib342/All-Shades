@@ -1287,6 +1287,7 @@ height-observer {
   transition: transform .2s;
   position: absolute;
   inset-block-start: calc(50% - 3.5px);
+  inset-block-start: 65%;
   inset-inline-end: calc(var(--input-padding-inline)  + 1px);
 }
 
@@ -2861,7 +2862,7 @@ tfoot td {
   --swatch-disabled-strike-color: rgb(var(--border-color));
   width: var(--swatch-size);
   height: var(--swatch-size);
-  border-radius: min(4px, var(--input-border-radius));
+  border-radius: 100px;
   border-width: 1px;
   display: block;
   position: relative;
@@ -2881,6 +2882,7 @@ tfoot td {
 
 .thumbnail-swatch > img {
   border-radius: inherit;
+  object-fit: cover;
   height: 100%;
 }
 
@@ -2890,7 +2892,7 @@ tfoot td {
 
 @media screen and (min-width: 700px) {
   .thumbnail-swatch {
-    --swatch-size: 4.25rem;
+    --swatch-size: 2.25rem;
   }
 }
 
@@ -7639,7 +7641,10 @@ ul {
   overflow: hidden;
 }
 
-
+label#hide-true {
+  font-size: 20px;
+  font-weight: 700;
+}
 
 [data-block-type="description"]{
   max-height: 300px;

@@ -6,8 +6,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/New_Project.webp",
-            "subheading": "Travel In Vogue",
+            "image": "shopify:\/\/shop_images\/IMG_0325_Large_2.jpg",
+            "subheading": "Supreme Must Haves",
             "title": "ALL SHADES-BE\"YOU\"TIFUL",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -32,8 +32,34 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/New_Project_1.webp",
-            "subheading": "TRAVEL PUFFY DUFFLE BAGS",
+            "image": "shopify:\/\/shop_images\/IMG_1238.jpg",
+            "subheading": "Premium Travel Essentials",
+            "title": "ALL SHADES-BE\"YOU\"TIFUL",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "Shop Now",
+            "button_1_link": "",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
+          }
+        },
+        "image_fA6jwH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_0829_Copy_Large_78215fe3-9839-45ff-b363-302366a2ef81.jpg",
+            "subheading": "Premium Travel Essentials",
             "title": "ALL SHADES-BE\"YOU\"TIFUL",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -58,7 +84,8 @@
       },
       "block_order": [
         "slide-1",
-        "slide-2"
+        "slide-2",
+        "image_fA6jwH"
       ],
       "settings": {
         "allow_transparent_header": false,
@@ -107,7 +134,7 @@
         "text_alignment": "center",
         "subheading": "",
         "title": "Our mission",
-        "content": "<p>At AllShades BeYoutiful, our mission is to inspire and empower travelers around the world to embark on their journeys with confidence, comfort, style, and convenience. We believe that every adventure, whether near or far, should be an opportunity for exploration, self-discovery, and meaningful connections, no matter if it’s via car, train, or plane - we want you looking good and feeling good, always.<\/p>",
+        "content": "<p>At AllShades BeYoutiful, our mission is to inspire and empower travelers around the world to embark on their journeys with confidence, comfort, style, and convenience. We believe that every adventure, whether near or far, should be an opportunity for exploration, self-discovery, and meaningful connections,no matter if it’s via car, train, or plane - we want you looking good and feeling good, always.<\/p>",
         "button_1_text": "Learn more",
         "button_1_link": "shopify:\/\/pages\/mission-statement",
         "button_1_style": "link",
@@ -162,7 +189,7 @@
           "settings": {
             "collection": "best-sellers",
             "products_count": 8,
-            "title": "",
+            "title": "Shop Elevated Must Haves",
             "link_url": "shopify:\/\/collections\/best-sellers",
             "link_text": "SHOP BESTSELLERS"
           }
@@ -172,7 +199,7 @@
         "collection_aGa6Hw"
       ],
       "settings": {
-        "color_scheme": "scheme-1",
+        "color_scheme": "",
         "separate_section_with_border": true,
         "hide_product_information": false,
         "stack_products": false,
@@ -372,7 +399,7 @@
         "stack_collections": true,
         "collections_per_row_desktop": 3,
         "subheading": "Explore",
-        "title": "Must Have Collections",
+        "title": "Most Desired Collections",
         "content": ""
       }
     },

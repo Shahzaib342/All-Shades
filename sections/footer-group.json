@@ -11,8 +11,8 @@
             "icon": "picto-award-gift",
             "icon_width": 56,
             "mobile_icon_width": 32,
-            "title": "<strong>Free delivery worldwide<\/strong>",
-            "content": "<p>Short content about your store<\/p>"
+            "title": "<strong>Free delivery across USA<\/strong>",
+            "content": "<p>Free Delivery Coast-to-Coast!<\/p>"
           }
         },
         "icon-2": {
@@ -22,7 +22,7 @@
             "icon_width": 56,
             "mobile_icon_width": 32,
             "title": "<strong>Satisfied or refunded<\/strong>",
-            "content": "<p>Short content about your store<\/p>"
+            "content": "<p>Love It or Leave It<\/p>"
           }
         },
         "icon-3": {
@@ -32,7 +32,7 @@
             "icon_width": 56,
             "mobile_icon_width": 32,
             "title": "<strong>Top-notch support<\/strong>",
-            "content": "<p>Short content about your store<\/p>"
+            "content": "<p>Dedicated to Your Success<\/p>"
           }
         },
         "icon-4": {
@@ -42,7 +42,7 @@
             "icon_width": 56,
             "mobile_icon_width": 32,
             "title": "<strong>Secure payments<\/strong>",
-            "content": "<p>Short content about your store<\/p>"
+            "content": "<p>Seamless Shopping, Secure Payments<\/p>"
           }
         }
       },
@@ -67,13 +67,22 @@
         "text_YPNTmD": {
           "type": "text",
           "settings": {
-            "title": "<strong>About Us<\/strong>",
-            "content": "<p>Allshades-BeYOUtiful is an e-commerce store that specializes in travel essentials and accessories. <\/p>",
+            "title": "<strong>Our Story<\/strong>",
+            "content": "<p>We're here to tell you the story behind Allshades-BeYOUtiful, and how we’re empowering the next generation of adventure seekers to escape the craziness of daily life and fall in love with a new version of themselves.<\/p>",
             "enable_follow_on_shop": true
+          }
+        },
+        "links_myRq4j": {
+          "type": "links",
+          "settings": {
+            "menu": "legal",
+            "show_menu_title": true,
+            "menu_title": ""
           }
         },
         "links": {
           "type": "links",
+          "disabled": true,
           "settings": {
             "menu": "footer-collections",
             "show_menu_title": true,
@@ -98,11 +107,11 @@
             "button_text_color": ""
           }
         },
-        "html_NyBH4B": {
+        "html_nVi7f4": {
           "type": "html",
           "settings": {
-            "title": "Klaviyo Newsletter",
-            "content": "<p>Sign up to our newsletter to receive exclusive offers.<\/p>",
+            "title": "Newsletter",
+            "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.<\/p>",
             "klaviyo_id": "YugGe9",
             "button_background": "",
             "button_text_color": ""
@@ -111,20 +120,21 @@
       },
       "block_order": [
         "text_YPNTmD",
+        "links_myRq4j",
         "links",
         "links_3B9PJE",
         "newsletter",
-        "html_NyBH4B"
+        "html_nVi7f4"
       ],
       "settings": {
         "color_scheme": "scheme-2",
         "separate_section_with_border": false,
         "show_social_media": true,
         "show_payment_icons": true,
-        "show_country_selector": true,
-        "show_country_name": true,
-        "show_country_flag": true,
-        "show_locale_selector": true
+        "show_country_selector": false,
+        "show_country_name": false,
+        "show_country_flag": false,
+        "show_locale_selector": false
       }
     }
   },

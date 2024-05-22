@@ -220,6 +220,22 @@
       "success_message": "Your message has been sent."
     }
   },
+  "influencer": {
+    "form": {
+      "name": "Full Name",
+      "email": "E-mail",
+      "submit": "Submit",
+      "success_message": "Your request has been successfully submitted."
+    }
+  },
+  "stylist": {
+    "form": {
+      "name": "Full Name",
+      "email": "E-mail",
+      "submit": "Submit",
+      "success_message": "Your request has been successfully submitted."
+    }
+  },
   "customer": {
     "account": {
       "title": "Your account",

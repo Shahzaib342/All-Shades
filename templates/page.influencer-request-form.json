@@ -2,11 +2,151 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
+        "color_scheme": "",
+        "show_title": true,
+        "page_width": "xs"
+      }
+    },
+    "influencer-request-form": {
+      "type": "influencer-request-form",
+      "blocks": {
+        "text_mQTBAz": {
+          "type": "text",
+          "settings": {
+            "title": "City & Country",
+            "use_long_text": false,
+            "required": true
+          }
+        },
+        "text_RULnWX": {
+          "type": "text",
+          "settings": {
+            "title": "Instagram",
+            "use_long_text": false,
+            "required": true
+          }
+        },
+        "text_HdXUrm": {
+          "type": "text",
+          "settings": {
+            "title": "TikTok",
+            "use_long_text": false,
+            "required": false
+          }
+        },
+        "text_gABxtx": {
+          "type": "text",
+          "settings": {
+            "title": "Youtube",
+            "use_long_text": false,
+            "required": false
+          }
+        },
+        "text_ieacfG": {
+          "type": "text",
+          "settings": {
+            "title": "Media Kit\/Audience Insights link",
+            "use_long_text": false,
+            "required": false
+          }
+        },
+        "list_zp4mxU": {
+          "type": "list",
+          "settings": {
+            "title": "Industry",
+            "values": "Fashion,Travel,Wellness,Lifestyle,Sustainability"
+          }
+        },
+        "dropdown_e3rAxa": {
+          "type": "dropdown",
+          "settings": {
+            "title": "US Dress Size",
+            "values": "XS (US 0-2),S (US 4-6),M (US 8-10),L (US 12-14),1XL (US 16-18),2XL (US 20-22),3XL (US24-26)"
+          }
+        },
+        "dropdown_ngUeHp": {
+          "type": "dropdown",
+          "settings": {
+            "title": "Height",
+            "values": "4'8\" | 143 cm,4'9\" | 145 cm,4'10\" | 147 cm,4'11\" | 150 cm,5'0\" | 153 cm,5'1\" | 155 cm,5'2\" |157 cm,5'3\" | 160 cm,5'4\" | 163 cm,5'5\" | 165 cm,5'6\" | 168 cm,5'7\" | 170 cm,5'8\" | 173cm,5'9\" | 175 cm,5'10\" | 178 cm,5'11\" | 180 cm,6'0\" | 183 cm,6'1\" | 185 cm,6'2\" | 188 cm,6'3\"| 190 cm"
+          }
+        },
+        "text_p899L9": {
+          "type": "text",
+          "settings": {
+            "title": "Requested product 1",
+            "use_long_text": false,
+            "required": false
+          }
+        },
+        "text_yeNMkL": {
+          "type": "text",
+          "settings": {
+            "title": "Requested product 2",
+            "use_long_text": false,
+            "required": false
+          }
+        },
+        "text_QgCRJT": {
+          "type": "text",
+          "settings": {
+            "title": "Requested product 3",
+            "use_long_text": false,
+            "required": false
+          }
+        },
+        "list_AJ48gX": {
+          "type": "list",
+          "settings": {
+            "title": "Purpose",
+            "values": "Affiliate partnership,Organic gifting,Event guest list,"
+          }
+        },
+        "list_AjeAQK": {
+          "type": "list",
+          "settings": {
+            "title": "Following count",
+            "values": "1K-10K,10K-50K,50K-500K,500K,1M+"
+          }
+        },
+        "text_nqXMUr": {
+          "type": "text",
+          "settings": {
+            "title": "Please tell us why you would like to partner with AllShades",
+            "use_long_text": true,
+            "required": false
+          }
+        }
+      },
+      "block_order": [
+        "text_mQTBAz",
+        "text_RULnWX",
+        "text_HdXUrm",
+        "text_gABxtx",
+        "text_ieacfG",
+        "list_zp4mxU",
+        "dropdown_e3rAxa",
+        "dropdown_ngUeHp",
+        "text_p899L9",
+        "text_yeNMkL",
+        "text_QgCRJT",
+        "list_AJ48gX",
+        "list_AjeAQK",
+        "text_nqXMUr"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "subheading": "",
+        "title": "Influencer request form",
+        "content": "<p>We welcome partnerships with stylists and publications to compliment your talent. If you're looking topartner with us please complete the form below and we'll be in touch at our earliest convenience!<\/p>"
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "influencer-request-form"
   ]
 }
