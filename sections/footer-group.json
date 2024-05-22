@@ -72,8 +72,17 @@
             "enable_follow_on_shop": true
           }
         },
+        "links_myRq4j": {
+          "type": "links",
+          "settings": {
+            "menu": "legal",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
+        },
         "links": {
           "type": "links",
+          "disabled": true,
           "settings": {
             "menu": "footer-collections",
             "show_menu_title": true,
@@ -111,6 +120,7 @@
       },
       "block_order": [
         "text_YPNTmD",
+        "links_myRq4j",
         "links",
         "links_3B9PJE",
         "newsletter",
