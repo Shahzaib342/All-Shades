@@ -33,8 +33,8 @@
       ],
       "settings": {
         "color_scheme": "",
-        "image_size": "xs",
-        "image": "shopify:\/\/shop_images\/IMG_0824_Copy_Large_62dcacc4-e055-4d6a-b770-eb971443322a.jpg",
+        "image_size": "fill",
+        "image": "shopify:\/\/shop_images\/Photoroom_20240523_100920.jpg",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": true,
