@@ -304,13 +304,13 @@
           "type": "collection",
           "settings": {
             "color_scheme": "scheme-4",
-            "collection": "cover-ups",
+            "collection": "maxi-vactaion-dresses",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
             "title": "{{ block.settings.collection.title }}",
             "button_text": "Shop",
-            "button_link": "shopify:\/\/collections\/cover-ups",
+            "button_link": "shopify:\/\/collections\/maxi-vactaion-dresses",
             "overlay_color": "#000000",
             "overlay_opacity": 40
           }
