@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -33,8 +42,8 @@
       ],
       "settings": {
         "color_scheme": "",
-        "image_size": "xs",
-        "image": "shopify:\/\/shop_images\/New_Project.webp",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/IMG_0824_Copy_Large_1.jpg",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": true,
@@ -77,7 +86,7 @@
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": false,
-        "image": "shopify:\/\/shop_images\/slide3.jpg",
+        "image": "shopify:\/\/shop_images\/07BC5F29-68BF-4A50-8E85-F71FCC204938.jpg",
         "reveal_on_scroll": true,
         "image_position": "end",
         "content_width": "md",
@@ -116,7 +125,7 @@
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": false,
-        "image": "shopify:\/\/shop_images\/75CAA732-D654-46AB-8254-45E57B7DBF6D_1.jpg",
+        "image": "shopify:\/\/shop_images\/image_123650291_1.jpg",
         "reveal_on_scroll": true,
         "image_position": "start",
         "content_width": "md",
@@ -259,6 +268,7 @@
         "heading_Tx3a96",
         "richtext_fNqUVm"
       ],
+      "disabled": true,
       "settings": {
         "autoplay": true,
         "show_controls": false,
@@ -266,6 +276,42 @@
         "video": "shopify:\/\/files\/videos\/V2(3).mp4",
         "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
         "text_color": "#1c1c1c"
+      }
+    },
+    "image_with_text_overlay_pMqVKA": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_rx3P4N": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "Image with text overlay",
+            "heading_tag": "h4"
+          }
+        },
+        "richtext_WpetY3": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Now that you know the heart and soul behind Allshades BeYOUtiful and our fabulous product lineup, we invite you to join us on this travel-inspired journey. We're here to simplify travel, so you can focus on creating memories, exploring new cultures, and looking darn good while doing it.<\/p><p><br\/>So pack your bags, and let's make the world our playground – one stylish and practical<br\/>adventure at a time. 🌍✈️💄💤<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_rx3P4N",
+        "richtext_WpetY3"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/our_story_banner_2_51320907-fb84-4245-b865-5f24ef65bea0.jpg",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "xs",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 50
       }
     },
     "blog_posts_EqB89m": {
@@ -295,6 +341,7 @@
     "rich_text_NR6XVX",
     "text_with_icons_pFcLeJ",
     "video_JwFeL8",
+    "image_with_text_overlay_pMqVKA",
     "blog_posts_EqB89m"
   ]
 }

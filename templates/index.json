@@ -15,7 +15,7 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/New_Project.webp",
+            "image": "shopify:\/\/shop_images\/24640DA9-8E94-4AAD-AB1B-989FDD0BB747.jpg",
             "subheading": "Supreme Must Haves",
             "title": "ALL SHADES-BE\"YOU\"TIFUL",
             "mobile_text_position": "place-self-center text-center",
@@ -41,7 +41,33 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/New_Project_1.webp",
+            "image": "shopify:\/\/shop_images\/F7F67E5F-11F7-4313-AA2F-62E65480AF31.jpg",
+            "subheading": "Premium Travel Essentials",
+            "title": "ALL SHADES-BE\"YOU\"TIFUL",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "Shop Now",
+            "button_1_link": "",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
+          }
+        },
+        "image_fA6jwH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_1301.jpg",
             "subheading": "Premium Travel Essentials",
             "title": "ALL SHADES-BE\"YOU\"TIFUL",
             "mobile_text_position": "place-self-center text-center",
@@ -67,12 +93,13 @@
       },
       "block_order": [
         "slide-1",
-        "slide-2"
+        "slide-2",
+        "image_fA6jwH"
       ],
       "settings": {
         "allow_transparent_header": false,
         "show_next_section_button": true,
-        "media_size": "lg",
+        "media_size": "auto",
         "show_initial_transition": false,
         "autoplay": true,
         "autoplay_pause_on_video": true,
@@ -87,14 +114,14 @@
         "image_4FzpTq": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/7E316E24-2E77-4541-BCBF-91AC50FE4D11.jpg",
+            "image": "shopify:\/\/shop_images\/ms1.jpg",
             "rotation": 0
           }
         },
         "image_FBUbNG": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/09686DEB-2454-4994-BB65-38E4D56CD6DB.jpg",
+            "image": "shopify:\/\/shop_images\/F3DE01AC-24C7-4E0F-BF75-69A3C1E104C9.jpg",
             "rotation": 0
           }
         }
@@ -170,7 +197,7 @@
           "type": "collection",
           "settings": {
             "collection": "best-sellers",
-            "products_count": 8,
+            "products_count": 4,
             "title": "Shop Elevated Must Haves",
             "link_url": "shopify:\/\/collections\/best-sellers",
             "link_text": "SHOP BESTSELLERS"
@@ -337,7 +364,7 @@
           "type": "collection",
           "settings": {
             "color_scheme": "scheme-4",
-            "collection": "microfiber-head-towel-wrap",
+            "collection": "best-sellers",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
