@@ -55,11 +55,33 @@
             "title": "Easy Return",
             "content": "<p>30 Day Policy<\/p>"
           }
+        },
+        "item_HnVF7G": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-info",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "Questions?",
+            "content": "<p>650-492-4617<\/p>"
+          }
+        },
+        "item_YWAyAb": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-award-gift",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "10am to 5pm PST",
+            "content": "<p>Mon - Fri<\/p>"
+          }
         }
       },
       "block_order": [
         "item_MHkiAV",
-        "item_gHpKbK"
+        "item_gHpKbK",
+        "item_HnVF7G",
+        "item_YWAyAb"
       ],
       "settings": {
         "color_scheme": "",
