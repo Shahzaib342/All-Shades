@@ -94,8 +94,8 @@
         "transparent_header_text_color": "#ffffff"
       }
     },
-    "text-with-icons": {
-      "type": "text-with-icons",
+    "header-icons": {
+      "type": "header-icons",
       "settings": {
       }
     }
@@ -103,6 +103,6 @@
   "order": [
     "announcement-bar",
     "header",
-    "text-with-icons"
+    "header-icons"
   ]
 }
