@@ -33,6 +33,43 @@
         "mobile_font_size": 10
       }
     },
+    "header-icons": {
+      "type": "header-icons",
+      "blocks": {
+        "item_MHkiAV": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-delivery-truck",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "Free Shipping",
+            "content": "<p>Over $75<\/p>"
+          }
+        },
+        "item_gHpKbK": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-return",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "Easy Return",
+            "content": "<p>30 Day Policy<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_MHkiAV",
+        "item_gHpKbK"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "stack_on_mobile": false,
+        "icon_color": "",
+        "text_color": "",
+        "text_alignment": "center"
+      }
+    },
     "header": {
       "type": "header",
       "blocks": {
@@ -93,37 +130,11 @@
         "show_locale_selector": false,
         "transparent_header_text_color": "#ffffff"
       }
-    },
-    "header-icons": {
-      "type": "header-icons",
-      "blocks": {
-        "item_MHkiAV": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-delivery-truck",
-            "icon_width": 24,
-            "mobile_icon_width": 24,
-            "title": "Free Shipping",
-            "content": "<p>Over $75<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_MHkiAV"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "stack_on_mobile": false,
-        "icon_color": "",
-        "text_color": "",
-        "text_alignment": "center"
-      }
     }
   },
   "order": [
     "announcement-bar",
-    "header",
-    "header-icons"
+    "header-icons",
+    "header"
   ]
 }
