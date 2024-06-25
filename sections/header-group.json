@@ -24,6 +24,65 @@
         "mobile_font_size": 10
       }
     },
+    "header-icons": {
+      "type": "header-icons",
+      "blocks": {
+        "item_MHkiAV": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-delivery-truck",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "Free Shipping",
+            "content": "<p>Over $50<\/p>"
+          }
+        },
+        "item_gHpKbK": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-return",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "Easy Return",
+            "content": "<p>30 Day Policy<\/p>"
+          }
+        },
+        "item_HnVF7G": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-info",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "Questions?",
+            "content": "<p>650-492-4617<\/p>"
+          }
+        },
+        "item_YWAyAb": {
+          "type": "item",
+          "settings": {
+            "icon": "",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "10am to 5pm CST",
+            "content": "<p>Mon - Fri<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_MHkiAV",
+        "item_gHpKbK",
+        "item_HnVF7G",
+        "item_YWAyAb"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "stack_on_mobile": false,
+        "icon_color": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "text_alignment": "end"
+      }
+    },
     "header": {
       "type": "header",
       "blocks": {
@@ -45,14 +104,14 @@
           "settings": {
             "menu_item": "Collections",
             "images_position": "right",
-            "image_1": "shopify:\/\/shop_images\/C259142D-2F2E-4295-ABBF-C21C60ACB352.jpg",
+            "image_1": "shopify:\/\/shop_images\/Task-12169647-1-1_Large_3f2f3531-ae17-46e3-a0e8-3939fab51788.jpg",
             "image_1_heading": "Best Sellers",
             "image_1_text": "See Collection",
-            "image_1_link": "shopify:\/\/collections",
-            "image_2": "shopify:\/\/shop_images\/49770764-3F89-40C9-B67F-FC876D260E02.jpg",
+            "image_1_link": "shopify:\/\/collections\/best-sellers",
+            "image_2": "shopify:\/\/shop_images\/IMG_1248_Large_44c03beb-dfde-4fe4-9660-42abbbcd53bf.jpg",
             "image_2_heading": "Travel Tote Bags",
             "image_2_text": "See Collection",
-            "image_2_link": "shopify:\/\/collections"
+            "image_2_link": "shopify:\/\/collections\/travel-tote-bags"
           }
         }
       },
@@ -88,6 +147,7 @@
   },
   "order": [
     "announcement-bar",
+    "header-icons",
     "header"
   ]
 }
