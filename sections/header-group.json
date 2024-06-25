@@ -84,10 +84,16 @@
         "show_locale_selector": false,
         "transparent_header_text_color": "#ffffff"
       }
+    },
+    "header-icons": {
+      "type": "header-icons",
+      "settings": {
+      }
     }
   },
   "order": [
     "announcement-bar",
-    "header"
+    "header",
+    "header-icons"
   ]
 }
