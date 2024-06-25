@@ -8,7 +8,7 @@
         "allow_transparent_header": false,
         "reveal": true,
         "enable_parallax": true,
-        "show_image": true,
+        "show_image": false,
         "show_collection_title": true,
         "show_collection_description": false,
         "show_breadcrumb": false,
