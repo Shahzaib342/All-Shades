@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "slideshow": {
@@ -15,14 +15,14 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/24640DA9-8E94-4AAD-AB1B-989FDD0BB747.jpg",
+            "image": "shopify://shop_images/24640DA9-8E94-4AAD-AB1B-989FDD0BB747.jpg",
             "subheading": "Supreme Must Haves",
             "title": "ALL SHADES-BE\"YOU\"TIFUL",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 760,
             "button_1_text": "Shop Now",
-            "button_1_link": "shopify:\/\/collections",
+            "button_1_link": "shopify://collections",
             "button_1_style": "solid",
             "button_1_background": "#ffffff",
             "button_1_text_color": "#000000",
@@ -41,7 +41,7 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/F7F67E5F-11F7-4313-AA2F-62E65480AF31.jpg",
+            "image": "shopify://shop_images/F7F67E5F-11F7-4313-AA2F-62E65480AF31.jpg",
             "subheading": "Premium Travel Essentials",
             "title": "ALL SHADES-BE\"YOU\"TIFUL",
             "mobile_text_position": "place-self-center text-center",
@@ -67,7 +67,7 @@
         "image_fA6jwH": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_1301.jpg",
+            "image": "shopify://shop_images/IMG_1301.jpg",
             "subheading": "Premium Travel Essentials",
             "title": "ALL SHADES-BE\"YOU\"TIFUL",
             "mobile_text_position": "place-self-center text-center",
@@ -114,14 +114,14 @@
         "image_4FzpTq": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ms1.jpg",
+            "image": "shopify://shop_images/ms1.jpg",
             "rotation": 0
           }
         },
         "image_FBUbNG": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/F3DE01AC-24C7-4E0F-BF75-69A3C1E104C9.jpg",
+            "image": "shopify://shop_images/F3DE01AC-24C7-4E0F-BF75-69A3C1E104C9.jpg",
             "rotation": 0
           }
         }
@@ -143,9 +143,9 @@
         "text_alignment": "center",
         "subheading": "",
         "title": "Our mission",
-        "content": "<p>At AllShades BeYoutiful, our mission is to inspire and empower travelers around the world to embark on their journeys with confidence, comfort, style, and convenience. We believe that every adventure, whether near or far, should be an opportunity for exploration, self-discovery, and meaningful connections,no matter if it’s via car, train, or plane - we want you looking good and feeling good, always.<\/p>",
+        "content": "<p>At AllShades BeYoutiful, our mission is to inspire and empower travelers around the world to embark on their journeys with confidence, comfort, style, and convenience. We believe that every adventure, whether near or far, should be an opportunity for exploration, self-discovery, and meaningful connections,no matter if it’s via car, train, or plane - we want you looking good and feeling good, always.</p>",
         "button_1_text": "Learn more",
-        "button_1_link": "shopify:\/\/pages\/mission-statement",
+        "button_1_link": "shopify://pages/mission-statement",
         "button_1_style": "link",
         "button_2_text": "",
         "button_2_link": "",
@@ -171,7 +171,7 @@
         "richtext_LyF6KQ": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
       },
@@ -199,7 +199,7 @@
             "collection": "best-sellers",
             "products_count": 4,
             "title": "Shop Elevated Must Haves",
-            "link_url": "shopify:\/\/collections\/best-sellers",
+            "link_url": "shopify://collections/best-sellers",
             "link_text": "SHOP BESTSELLERS"
           }
         }
@@ -225,11 +225,11 @@
       "settings": {
         "color_scheme": "scheme-9c7a4313-1423-4959-b872-9f7e3873f298",
         "separate_section_with_border": false,
-        "image": "shopify:\/\/shop_images\/pexels-anastasiya-gepp-654466-1462637.jpg",
+        "image": "shopify://shop_images/pexels-anastasiya-gepp-654466-1462637.jpg",
         "image_size": "xs",
         "subheading": "",
         "title": "Special offer",
-        "content": "<p>Share something about your limited offer or temporary promotion.<\/p>",
+        "content": "<p>Share something about your limited offer or temporary promotion.</p>",
         "button_link": "",
         "button_text": "",
         "expiration_date": "2024-05-20",
@@ -251,7 +251,7 @@
           "settings": {
             "title": "Column title",
             "heading_tag": "h3",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -261,7 +261,7 @@
           "settings": {
             "title": "Column title",
             "heading_tag": "h3",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -271,7 +271,7 @@
           "settings": {
             "title": "Column title",
             "heading_tag": "h3",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -304,13 +304,13 @@
           "type": "collection",
           "settings": {
             "color_scheme": "scheme-4",
-            "collection": "maxi-vactaion-dresses",
+            "collection": "vacation-dresses",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
             "title": "{{ block.settings.collection.title }}",
             "button_text": "Shop",
-            "button_link": "shopify:\/\/collections\/maxi-vactaion-dresses",
+            "button_link": "shopify://collections/vacation-dresses",
             "overlay_color": "#000000",
             "overlay_opacity": 40
           }
@@ -325,7 +325,7 @@
             "subheading": "",
             "title": "{{ block.settings.collection.title }}",
             "button_text": "Shop",
-            "button_link": "shopify:\/\/collections\/crossbody-handbag",
+            "button_link": "shopify://collections/crossbody-handbag",
             "overlay_color": "#000000",
             "overlay_opacity": 40
           }
@@ -445,8 +445,8 @@
         "color_scheme": "",
         "separate_section_with_border": true,
         "subheading": "",
-        "title": "Before\/after",
-        "content": "<p>Showcase your product benefit by using before\/after image comparison.<\/p>",
+        "title": "Before/after",
+        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
         "cursor_direction": "horizontal",
         "cursor_initial_position": 50,
         "cursor_background": "#ffffff",
@@ -459,10 +459,10 @@
         "item-1": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3064B41D-01F1-478B-A68B-9CA7A14636C0.jpg",
+            "image": "shopify://shop_images/3064B41D-01F1-478B-A68B-9CA7A14636C0.jpg",
             "subheading": "",
             "title": "#1",
-            "content": "<p>Welcome your customers to your store by sharing temporary offers or explaining to them what your products are about.<\/p>",
+            "content": "<p>Welcome your customers to your store by sharing temporary offers or explaining to them what your products are about.</p>",
             "link_text": "",
             "link_url": "",
             "link_style": "solid"
@@ -471,10 +471,10 @@
         "item-2": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/A78A2EC2-1248-4803-9391-A6508FD001B0.jpg",
+            "image": "shopify://shop_images/A78A2EC2-1248-4803-9391-A6508FD001B0.jpg",
             "subheading": "",
             "title": "#2",
-            "content": "<p>Create trust with your customers by explaining the story of your brand. Share your values or what is important to you.<\/p>",
+            "content": "<p>Create trust with your customers by explaining the story of your brand. Share your values or what is important to you.</p>",
             "link_text": "",
             "link_url": "",
             "link_style": "solid"
@@ -483,10 +483,10 @@
         "item-3": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/25C42079-9905-4DE3-B70D-5302561A49BA.jpg",
+            "image": "shopify://shop_images/25C42079-9905-4DE3-B70D-5302561A49BA.jpg",
             "subheading": "",
             "title": "#3",
-            "content": "<p>Share information about your product with your customers. Describe a product, and share info about your production process...<\/p>",
+            "content": "<p>Share information about your product with your customers. Describe a product, and share info about your production process...</p>",
             "link_text": "",
             "link_url": "",
             "link_style": "solid"
@@ -514,7 +514,7 @@
         "look-1": {
           "type": "look",
           "settings": {
-            "image": "shopify:\/\/shop_images\/A26306AC-333E-4034-BCFF-32A6258EF857.jpg",
+            "image": "shopify://shop_images/A26306AC-333E-4034-BCFF-32A6258EF857.jpg",
             "hot_spots_background": "#ffffff",
             "product_1": "weekender-travel-shopping-beach-bag-totes",
             "product_1_horizontal_position": 35,
@@ -558,7 +558,7 @@
         "subheading": "learn & discover",
         "title": "allshades Journal",
         "content": "",
-        "button_link": "shopify:\/\/blogs\/news",
+        "button_link": "shopify://blogs/news",
         "button_text": "View all articles"
       }
     },
@@ -570,7 +570,7 @@
         "image_size": "auto",
         "subheading": "",
         "title": "JOIN THE TRAVEL ACCESSORIES CLUB & GET 20% OFF!",
-        "content": "<p>For discounts, coupons and new product announcements.<\/p>",
+        "content": "<p>For discounts, coupons and new product announcements.</p>",
         "button_text": "Subscribe",
         "klaviyo_enable": true,
         "klaviyo_id": "YugGe9",
